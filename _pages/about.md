@@ -12,8 +12,7 @@ Dr. Xiaokun Yang is an Associate Professor in the College of Science and Enginee
 More information, please find the Projects, Github, and Integrated Circuit Design Lab (IC-Design-Lab) .
 Should you have any questions, please feel free to contact yangxia@uhcl.edu or xiaokunyang@lbl.gov .
 
-
-Student Recruiting:
+Student Recruiting
 ======
 Presently, the ICS Lab is actively seeking talented and self-motivated students who possess a keen interest in hardware design for scientific computing and quantum computing, as well as machine learning applications on ASICs/FPGAs. These selected students will receive robust support through federal grants, including the esteemed DOE ASCR, NSF CSSI, and NSF REU programs. 
 
