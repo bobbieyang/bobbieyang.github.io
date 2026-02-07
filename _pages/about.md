@@ -7,24 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Xiaokun Yang is an Associate Professor in the College of Science and Engineering at the University of Houston Clear Lake. He is also an Affiliate Faculty in the Computer Science Department at Lawrence Berkeley National Laboratory. Dr. Yang obtained his Ph.D. from the Department of Electrical and Computer Engineering at Florida International University (FIU), USA in Spring 2016, and his dual M.S. from the Department of ECE at FIU and the Department of Software Engineering at Beihang University, China in 2007.
-Dr. Yang has worked as a Senior ASIC Design and Verification Engineer at Advanced Micro Devices (AMD) and China Electronic Corporation (CEC). His research interests include Hardware Acceleration for Future HPC, ASIC/FPGA/SoC Design and Verification, and High-Performance SoC Architecture. As the first or corresponding author, Dr. Yang has published over 50 papers, including one textbook, three patents, more than 15 peer-reviewed journals, and more than 40 prestigious international conferences. He is the Guest Editor for MDPI Micromachines Journal and has served as a reviewer for several journals, including IEEE Trans. on Computer, IEEE Trans. on VLSI, and IEEE Trans. on Education, and numerous conference committees including ISVLSI and ISQED.
-More information, please find the Projects , Github , and Integrated Circuit and System Lab (ICS-Lab) .
+Dr. Xiaokun Yang is an Associate Professor in the College of Science and Engineering at the University of Houston–Clear Lake and an Affiliate Faculty member in the Computer Architecture Group within the Computer Science Department at Lawrence Berkeley National Laboratory. He is a recipient of the 2025 President’s Distinguished Faculty Award, the 2025 Distinguished Professor Award, and the 2025 Semi-Finalist of the Minnie Piper Award. His research is currently supported by multiple federal grants (in total $700K), including awards from the U.S. Department of Energy (ASCR) and the National Science Foundation (CSSI, REU, and others). Before entering academia, Dr. Yang spent nearly a decade in industry as an ASIC Design and Verification Engineer at Advanced Micro Devices (AMD) and China Electronics Corporation (CEC). He earned his Ph.D. in Electrical and Computer Engineering from Florida International University (FIU) in 2016. Dr. Yang’s research focuses on specialized hardware design, generation, and acceleration for scientific computing; and quantum circuit emulation, simulation, and acceleration. As first and/or corresponding author, he has published more than 50 scholarly works, including one textbook, three patents, over 15 peer-reviewed journal articles, and more than 40 papers in prestigious international conferences.
+
+More information, please find the Projects, Github, and Integrated Circuit Design Lab (IC-Design-Lab) .
 Should you have any questions, please feel free to contact yangxia@uhcl.edu or xiaokunyang@lbl.gov .
 
 
-Student Recruiting (NSF REU Award Number: 2243980, $383,917.00, 05/15/2023-04/30/2026):
+Student Recruiting:
 ======
-Presently, the ICS Lab is actively seeking talented and self-motivated students who possess a keen interest in hardware design and generation for scientific computing and numerical applications, as well as machine learning applications on ASICs/FPGAs. These selected students will receive robust support through federal grants, including the esteemed NSF REU program. Additionally, there will be opportunities for working with Berkeley Lab, which further enhances the potential for impactful and cutting-edge projects.
+Presently, the ICS Lab is actively seeking talented and self-motivated students who possess a keen interest in hardware design for scientific computing and quantum computing, as well as machine learning applications on ASICs/FPGAs. These selected students will receive robust support through federal grants, including the esteemed DOE ASCR, NSF CSSI, and NSF REU programs. 
 
 The student qualifications are: 1) must be expertise in Chisel/Scala programming; and/or 2) knowledgeable in ASIC/FPGA design and simulation.
-
-NSF REU Grant Title - Advancing Data-Driven Deep Coupling of Computational Simulations and Experiments.
-Please find the projects and summer supports in NSF-REU-Poster .
-More information related to the application for NSF REU, please find the website .
-More information related to the collaborative team for NSF REU, please find the information .
-
-(https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
 For those users that need more advanced functionality, the template also supports the following popular tools:
 - [MathJax](https://www.mathjax.org/) for mathematical equations
