@@ -1,1 +1,11 @@
+name: Scrape Talk Locations
+
+on:
+  workflow_dispatch:
+
+jobs:
+  noop:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Disabled for now"
 
