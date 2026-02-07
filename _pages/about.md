@@ -7,13 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-Xiaokun Yang's bio here.
+Dr. Xiaokun Yang is an Associate Professor in the College of Science and Engineering at the University of Houston Clear Lake. He is also an Affiliate Faculty in the Computer Science Department at Lawrence Berkeley National Laboratory. Dr. Yang obtained his Ph.D. from the Department of Electrical and Computer Engineering at Florida International University (FIU), USA in Spring 2016, and his dual M.S. from the Department of ECE at FIU and the Department of Software Engineering at Beihang University, China in 2007.
+Dr. Yang has worked as a Senior ASIC Design and Verification Engineer at Advanced Micro Devices (AMD) and China Electronic Corporation (CEC). His research interests include Hardware Acceleration for Future HPC, ASIC/FPGA/SoC Design and Verification, and High-Performance SoC Architecture. As the first or corresponding author, Dr. Yang has published over 50 papers, including one textbook, three patents, more than 15 peer-reviewed journals, and more than 40 prestigious international conferences. He is the Guest Editor for MDPI Micromachines Journal and has served as a reviewer for several journals, including IEEE Trans. on Computer, IEEE Trans. on VLSI, and IEEE Trans. on Education, and numerous conference committees including ISVLSI and ISQED.
+More information, please find the Projects , Github , and Integrated Circuit and System Lab (ICS-Lab) .
+Should you have any questions, please feel free to contact yangxia@uhcl.edu or xiaokunyang@lbl.gov .
 
-A data-driven personal website
+
+Student Recruiting (NSF REU Award Number: 2243980, $383,917.00, 05/15/2023-04/30/2026):
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Presently, the ICS Lab is actively seeking talented and self-motivated students who possess a keen interest in hardware design and generation for scientific computing and numerical applications, as well as machine learning applications on ASICs/FPGAs. These selected students will receive robust support through federal grants, including the esteemed NSF REU program. Additionally, there will be opportunities for working with Berkeley Lab, which further enhances the potential for impactful and cutting-edge projects.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+The student qualifications are: 1) must be expertise in Chisel/Scala programming; and/or 2) knowledgeable in ASIC/FPGA design and simulation.
+
+NSF REU Grant Title - Advancing Data-Driven Deep Coupling of Computational Simulations and Experiments.
+Please find the projects and summer supports in NSF-REU-Poster .
+More information related to the application for NSF REU, please find the website .
+More information related to the collaborative team for NSF REU, please find the information .
+
+(https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
 For those users that need more advanced functionality, the template also supports the following popular tools:
 - [MathJax](https://www.mathjax.org/) for mathematical equations
