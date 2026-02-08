@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "Publication"
+permalink: /publication/
 author_profile: true
 redirect_from:
-  - /research
+  - /publication
 ---
 
 {% include base_path %}
