@@ -175,8 +175,3 @@ Abstracts/Posters, Presentations, and Invited Talks
 * [Robotics 2017] A. Gajjar and X. Yang, “A Smart Building System Integrated with an Edge Computing Algorithm and IoT Mesh Networks,” Robotics & AI Day, UHCL, July 21, 2017.
 
 * [GBS 2016] X. Yang, “A High-Performance AES-Encrypted On-Chip Bus Architecture for Internet-of-Things System-on-Chips,” IEEE Galveston Session, NASA Johnson Space Center, Gilruth Recreation Center, November 17, 2016.
-
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
