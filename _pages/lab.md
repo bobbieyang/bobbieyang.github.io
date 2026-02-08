@@ -31,10 +31,10 @@ Team
 IC Design Flow
 ======
 * IC Design Tutorials
-  * <a href="{{ base_path }}/files/chisel/Appendix A.pdf" target="_blank">📄 IC Design and Simulation
+  * <a href="{{ base_path }}/files/chip/Appendix A.pdf" target="_blank">📄 IC Design and Simulation
 Tutorials</a>
-  * <a href="{{ base_path }}/files/chisel/Appendix B.pdf" target="_blank">📄 Siemens ModelSim Tutorial</a>
-  * <a href="{{ base_path }}/files/chisel/Appendix B.pdf" target="_blank">📄 IC Design and Simulation
+  * <a href="{{ base_path }}/files/chip/Appendix B.pdf" target="_blank">📄 Siemens ModelSim Tutorial</a>
+  * <a href="{{ base_path }}/files/chip/Appendix B.pdf" target="_blank">📄 IC Design and Simulation
 Tutorials</a>
 * Chisel Tutorials
   * <a href="{{ base_path }}/files/chisel/Chisel Design - XY.pdf" target="_blank">📄 Chisel Design on Fundamental IC</a>
