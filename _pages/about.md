@@ -11,7 +11,10 @@ Dr. Xiaokun Yang is an Associate Professor in the College of Science and Enginee
 
 Before entering academia, Dr. Yang spent nearly a decade in industry as an ASIC Design and Verification Engineer at Advanced Micro Devices (AMD) and China Electronics Corporation (CEC). He earned his Ph.D. in Electrical and Computer Engineering from Florida International University (FIU) in 2016. Dr. Yang’s research focuses on specialized hardware design, generation, and acceleration for scientific computing; and quantum circuit emulation, simulation, and acceleration. As first and/or corresponding author, he has published more than 50 scholarly works, including one textbook, three patents, over 15 peer-reviewed journal articles, and more than 40 papers in prestigious international conferences.
 
-Should you have any questions, please feel free to contact [yangxia@uhcl.edu](yangxia@uhcl.edu) yangxia@uhcl.edu or [xiaokunyang@lbl.gov](xiaokunyang@lbl.gov).
+Should you have any questions, please feel free to contact
+[yangxia@uhcl.edu](mailto:yangxia@uhcl.edu) or
+[xiaokunyang@lbl.gov](mailto:xiaokunyang@lbl.gov).
+
 
 Student Recruiting
 ======
