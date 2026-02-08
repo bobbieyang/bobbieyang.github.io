@@ -16,7 +16,7 @@ Student Recruiting
 ======
 Presently, the ICS Lab is actively seeking talented and self-motivated students who possess a keen interest in hardware design for scientific computing and quantum computing, as well as machine learning applications on ASICs/FPGAs. These selected students will receive robust support through federal grants, including the esteemed DOE ASCR, NSF CSSI, and NSF REU programs. 
 
-The student qualifications are: 1) must be expertise in Chisel/Scala programming; and/or 2) knowledgeable in ASIC/FPGA design and simulation.
+The student qualifications are: 1) knowledgeable in ASIC/FPGA design and simulation; and 2) knowledgeable in Chisel/Scala programming. 
 
 For those users that need more advanced functionality, the template also supports the following popular tools:
 - [MathJax](https://www.mathjax.org/) for mathematical equations
