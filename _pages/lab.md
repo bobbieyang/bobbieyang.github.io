@@ -32,20 +32,26 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
+IC Design Flow
 ======
-* Skill 1
-* Skill 2
-  * <a href="{{ base_path }}/files/chisel/Chisel Design - XY.pdf" target="_blank">📄 chisel design</a>
-  * <a href="{{ base_path }}/files/chisel/Chisel Env Setup - XY.pdf" target="_blank">📄 chisel design</a>
-  * <a href="{{ base_path }}/files/chisel/Chisel Design - XY.pdf" target="_blank">📄 chisel design</a>
-* Skill 3
+* IC Design Tutorials
+  * <a href="{{ base_path }}/files/chisel/Appendix A.pdf" target="_blank">📄 IC Design and Simulation
+Tutorials</a>
+  * <a href="{{ base_path }}/files/chisel/Appendix B.pdf" target="_blank">📄 Siemens ModelSim Tutorial</a>
+  * <a href="{{ base_path }}/files/chisel/Appendix B.pdf" target="_blank">📄 IC Design and Simulation
+Tutorials</a>
+* Chisel Tutorials
+  * <a href="{{ base_path }}/files/chisel/Chisel Design - XY.pdf" target="_blank">📄 Chisel Design on Fundamental IC</a>
+  * <a href="{{ base_path }}/files/chisel/Chisel Env Setup - XY.pdf" target="_blank">📄 IntelliJ IDEA Setup for Chisel</a>
+  * <a href="{{ base_path }}/files/chisel/Chisel and IC Projects Structuring - XY.pdf" target="_blank">📄 Chisel and IC Projects Structuring</a>
+
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Chisel tutorials
+  * <a href="{{ base_path }}/files/chisel/Chisel Design - XY.pdf" target="_blank">📄 Chisel Design on Fundamental IC</a>
+  * <a href="{{ base_path }}/files/chisel/Chisel Env Setup - XY.pdf" target="_blank">📄 IntelliJ IDEA Setup for Chisel</a>
+  * <a href="{{ base_path }}/files/chisel/Chisel and IC Projects Structuring - XY" target="_blank">📄 Chisel and IC Projects Structuring</a>
   
 Talks
 ======
