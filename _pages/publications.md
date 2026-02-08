@@ -15,11 +15,9 @@ Book
 
 Patents
 ======
-* X. Yang and J. Andrian, “An Advanced Bus Architecture for AES-Encrypted High-Performance Embedded Systems,” U.S. Patent US20170302438A1, October 19, 2017.
-
-* X. Yang, “A Mixed-Signal Verification System for Sigma-Delta Filters,” China Patent CN102955871A, 2013.
-
-* W. Teng, J. Sun, L. Mo, J. Zou, Y. Wu, F. Liao, J. Zhang, X. Yang, and D. Li, “Method and Device for Detecting Frame Signals of Wireless Local Area Network (WLAN) Equipment,” China Patent CN102970688A, 2013.
+1. X. Yang and J. Andrian, “An Advanced Bus Architecture for AES-Encrypted High-Performance Embedded Systems,” U.S. Patent US20170302438A1, October 19, 2017.
+2. X. Yang, “A Mixed-Signal Verification System for Sigma-Delta Filters,” China Patent CN102955871A, 2013.
+3. W. Teng, J. Sun, L. Mo, J. Zou, Y. Wu, F. Liao, J. Zhang, X. Yang, and D. Li, “Method and Device for Detecting Frame Signals of Wireless Local Area Network (WLAN) Equipment,” China Patent CN102970688A, 2013.
 
   
 Released IPs
@@ -72,69 +70,38 @@ Conferences
 19. [CSCE 2021] S. Ek, M. Curci, X. Yang, et al., “Sentiment Analysis of Long-Term Social Data during the COVID-19 Pandemic,” World Congress in Computer Science, Computer Engineering, and Applied Computing (CSCE), Las Vegas, NV, USA, 2021.
 20. [ISQED 2019] X. Yang, Y. Zhang, and L. Wu, “A Scalable Image/Video Processing Platform with an Open-Source Design and Verification Environment,” International Symposium on Quality Electronic Design (ISQED), Santa Clara, CA, USA, 2019.
 21. [ISVLSI 2019] K. Vaca, A. Gajjar, and X. Yang, “Real-Time Automatic Music Transcription with Zynq FPGA,” IEEE Computer Society Annual Symposium on VLSI (ISVLSI), Miami, FL, USA, 2019.
-
-* [ASP-DAC 2017] X. Yang and W. Wen, “Design of a Pre-Scheduled Data Bus (DBUS) for AES-Encrypted System-on-Chips,” Asia and South Pacific Design Automation Conference (ASP-DAC), Chiba, Japan, 2017.
-
-* [SEC 2017] X. Yang and X. He, “Establishing a BLE Mesh Network Using Fabricated CSRmesh Devices,” ACM/IEEE Symposium on Edge Computing (SEC), San Jose/Fremont, CA, USA, 2017.
-
-* [DAC 2016] X. Yang and J. Andrian, “A Configurable and Synthesizable On-Chip Bus Architecture for Integrating Industrial Standard IPs,” Design Automation Conference (DAC), Austin, TX, USA, 2016.
-
-* [ISVLSI 2014] X. Yang and J. Andrian, “A Low-Cost and High-Performance Embedded System Architecture and an Evaluation Methodology,” IEEE Symposium on VLSI (ISVLSI), Tampa, FL, USA, 2014.
-
-* [SSST 2013] X. Yang, X. Niu, and J. Fan, “Mixed-Signal System-on-Chip Verification Based on SystemVerilog Models,” Southeastern Symposium on System Theory (SSST), Waco, TX, USA, 2013.
+22. [ASP-DAC 2017] X. Yang and W. Wen, “Design of a Pre-Scheduled Data Bus (DBUS) for AES-Encrypted System-on-Chips,” Asia and South Pacific Design Automation Conference (ASP-DAC), Chiba, Japan, 2017.
+23. [SEC 2017] X. Yang and X. He, “Establishing a BLE Mesh Network Using Fabricated CSRmesh Devices,” ACM/IEEE Symposium on Edge Computing (SEC), San Jose/Fremont, CA, USA, 2017.
+24. [DAC 2016] X. Yang and J. Andrian, “A Configurable and Synthesizable On-Chip Bus Architecture for Integrating Industrial Standard IPs,” Design Automation Conference (DAC), Austin, TX, USA, 2016.
+25. [ISVLSI 2014] X. Yang and J. Andrian, “A Low-Cost and High-Performance Embedded System Architecture and an Evaluation Methodology,” IEEE Symposium on VLSI (ISVLSI), Tampa, FL, USA, 2014.
+26. [SSST 2013] X. Yang, X. Niu, and J. Fan, “Mixed-Signal System-on-Chip Verification Based on SystemVerilog Models,” Southeastern Symposium on System Theory (SSST), Waco, TX, USA, 2013.
 
 
   
 Abstracts/Posters, Presentations, and Invited Talks
 ======
-* [Quantum 26] Xiaokun Yang, “Beyond Moore’s Law: Hybrid Quantum-Classical Platforms,” Invited Talk, Case Western Reserve University.
-
-* [Quantum 26] Xiaokun Yang, “Beyond Moore’s Law: Specialized Hardware Design Generation for Quantum Circuit Simulation and Verification,” Invited Talk, Quantum Workshop, UT Dallas.
-
-* [SC 25] Mario Vega, Angelos Ioannou, Fabien Chaix, Dania Mosuli, Blair Reasoner, Tan Nguyen, Xiaokun Yang, and John Shalf, “An Approach to Identify Divergences in Hardware Designs for HPC Workloads,” 11th International Workshop on Heterogeneous High-Performance Reconfigurable Computing (H2RC 2025), St. Louis, MO, November 21, 2025.
-
-* [NSF REU Seminar 2025] X. Yang, “Specialized Hardware Design on Linear Algebra for Applications in Scientific Computing, ML, and Quantum Circuit Emulation,” UHCL Seminar, Vancouver, WA, July 24, 2025.
-
-* [NSF REU Poster 2024] Jeremy Turner and Xiaokun Yang, “Hardware Generation and Acceleration for Quantum Gate Simulation,” Poster, ENCS Undergraduate Research Showcase, Vancouver, WA, August 14, 2025.
-
-* [NSF REU Poster 2024] Jose Ramos and Xiaokun Yang, “Code Generation for AdderNet Neural Network,” Poster, ENCS Undergraduate Research Showcase, August 14, 2025.
-
-* [UHCL Physics & Mechanical Seminar 2025] X. Yang, “DFT Beyond Moore’s Law: Hardware Acceleration for Future HPC,” UHCL Seminar, February 25, 2025.
-
-* [LBL Fellowship Poster 2024] Blair Reasoner, Xiaokun Yang, Doru Thom Adrian Popovici, Patricia Gonzalez-Guerrero, Meriam Gay Bautista, Mario Vega, and John Shalf, “DFT Beyond Moore’s Law: Extreme Hardware Specialization for the Future of HPC,” Poster, Lawrence Berkeley National Laboratory, 2024.
-
-* [NSF REU Poster 2024] Keaton Khoury, Blair Reasoner, Paul Wong, and Xiaokun Yang, “Design and Verification of Submodules for Density Functional Theory (DFT) Hardware Accelerator,” Poster, Undergraduate Research Showcase, Vancouver, WA, July 30, 2024.
-
-* [NSF REU Poster 2024] Paul Wong and Xiaokun Yang, “Trigonometric Functions in the Chisel Hardware Construction Language,” Poster, Undergraduate Research Showcase, Vancouver, WA, July 30, 2024.
-
-* [NSF REU Seminar 2024] X. Yang, “Beyond Moore’s Law: Hardware Acceleration for Future HPC and ML,” NSF REU Seminar, July 12, 2024.
-
-* [LBL Fellowship Poster 2023] Blair Reasoner, Xiaokun Yang, Doru Thom Adrian Popovici, Patricia Gonzalez-Guerrero, Meriam Gay Bautista, Mario Vega, and John Shalf, “Parameterized Hardware Accelerator Design on Tall-Skinny QR Factorization,” Poster, Lawrence Berkeley National Laboratory, 2024.
-
-* [SRP 2023] X. Yang, “Specialized Hardware Design on DFT for HPC,” DOE SRP, January 9–13, 2023.
-
-* [LBL 2022] X. Yang, “DFT Beyond Moore’s Law: FPGA Design Specialization for HPC,” LBL Monthly Conference, November 2, 2022.
-
-* [DOE VFP 2022] X. Yang, Mario Vega, Doru Thom Adrian Popovici, Nirmalendu Patra, and John Shalf, “DFT Beyond Moore’s Law: FPGA Design Specialization for 3D FFT for HPC,” DOE Visiting Faculty Program Summer Oral Presentation, August 5, 2022.
-
-* [WDE 2022] Mario Vega, X. Yang, Doru Thom Adrian Popovici, Nirmalendu Patra, and John Shalf, “DFT Beyond Moore’s Law: Hardware Design Specialization for Streaming and Mixed FFTs,” WDE Poster Presentation, July 22, 2022.
-
-* [CFD 2022] X. Yang, “Project-Centric Learning with OpenIC,” Faculty Development Week, Center for Faculty Development, UHCL, January 27, 2022.
-
-* [SRP 2022] X. Yang, “High-Performance SoC Architecture,” DOE SRP, December 9–13, 2021.
-
-* [GCC 2021] X. Yang, “FPGA Designs and Acceleration for Neural Networks,” Invited Short Talk, GCC Translational Imaging Conference, Virtual Event, November 2, 2021.
-
-* [ES 2021] X. Yang, “FPGA Acceleration on Artificial Intelligence,” Invited Talk, Engineering Science Department, Sonoma State University, CA, 2021.
-
-* [VRISE 2021] X. Yang, “An Implementation of Low-Cost System-on-Chip with Neural Network for Surveillance Cameras,” TC17–VRISE 2021, Virtual Event, October 8, 2021.
-
-* [ICAMSE 2019] X. Yang, “An Advanced SoC Architecture for Low-Cost and Low-Power Edge Devices,” International Conference on Advanced Materials Sciences and Engineering, Osaka, Japan, 2019.
-
-* [Robotics 2018] X. Yang, Y. Zhang, A. Gajjar, H. Schmoyer, and N. Ly, “Learning-on-Chip: Facial Detection with Approximations of FPGA Computing,” Robotics & AI Day, UHCL, August 3, 2018.
-
-* [Robotics 2017] Y. Zhang and X. Yang, “Exploring Approximate Designs for FPGA-Based Edge Computing,” Robotics & AI Day, UHCL, July 21, 2017.
-
-* [Robotics 2017] A. Gajjar and X. Yang, “A Smart Building System Integrated with an Edge Computing Algorithm and IoT Mesh Networks,” Robotics & AI Day, UHCL, July 21, 2017.
-
-* [GBS 2016] X. Yang, “A High-Performance AES-Encrypted On-Chip Bus Architecture for Internet-of-Things System-on-Chips,” IEEE Galveston Session, NASA Johnson Space Center, Gilruth Recreation Center, November 17, 2016.
+1. [Quantum 26] Xiaokun Yang, “Beyond Moore’s Law: Specialized Hardware Design Generation for Quantum Circuit Simulation and Verification,” Invited Talk, Quantum Workshop, UT Dallas.
+2. [SC 25] Mario Vega, Angelos Ioannou, Fabien Chaix, Dania Mosuli, Blair Reasoner, Tan Nguyen, Xiaokun Yang, and John Shalf, “An Approach to Identify Divergences in Hardware Designs for HPC Workloads,” 11th International Workshop on Heterogeneous High-Performance Reconfigurable Computing (H2RC 2025), St. Louis, MO, November 21, 2025.
+3. [NSF REU Seminar 2025] X. Yang, “Specialized Hardware Design on Linear Algebra for Applications in Scientific Computing, ML, and Quantum Circuit Emulation,” UHCL Seminar, Vancouver, WA, July 24, 2025.
+4. [NSF REU Poster 2024] Jeremy Turner and Xiaokun Yang, “Hardware Generation and Acceleration for Quantum Gate Simulation,” Poster, ENCS Undergraduate Research Showcase, Vancouver, WA, August 14, 2025.
+5. [NSF REU Poster 2024] Jose Ramos and Xiaokun Yang, “Code Generation for AdderNet Neural Network,” Poster, ENCS Undergraduate Research Showcase, August 14, 2025.
+6. [UHCL Physics & Mechanical Seminar 2025] X. Yang, “DFT Beyond Moore’s Law: Hardware Acceleration for Future HPC,” UHCL Seminar, February 25, 2025.
+7. [LBL Fellowship Poster 2024] Blair Reasoner, Xiaokun Yang, Doru Thom Adrian Popovici, Patricia Gonzalez-Guerrero, Meriam Gay Bautista, Mario Vega, and John Shalf, “DFT Beyond Moore’s Law: Extreme Hardware Specialization for the Future of HPC,” Poster, Lawrence Berkeley National Laboratory, 2024.
+8. [NSF REU Poster 2024] Keaton Khoury, Blair Reasoner, Paul Wong, and Xiaokun Yang, “Design and Verification of Submodules for Density Functional Theory (DFT) Hardware Accelerator,” Poster, Undergraduate Research Showcase, Vancouver, WA, July 30, 2024.
+9. [NSF REU Poster 2024] Paul Wong and Xiaokun Yang, “Trigonometric Functions in the Chisel Hardware Construction Language,” Poster, Undergraduate Research Showcase, Vancouver, WA, July 30, 2024.
+10. [NSF REU Seminar 2024] X. Yang, “Beyond Moore’s Law: Hardware Acceleration for Future HPC and ML,” NSF REU Seminar, July 12, 2024.
+11. [LBL Fellowship Poster 2023] Blair Reasoner, Xiaokun Yang, Doru Thom Adrian Popovici, Patricia Gonzalez-Guerrero, Meriam Gay Bautista, Mario Vega, and John Shalf, “Parameterized Hardware Accelerator Design on Tall-Skinny QR Factorization,” Poster, Lawrence Berkeley National Laboratory, 2024.
+12. [SRP 2023] X. Yang, “Specialized Hardware Design on DFT for HPC,” DOE SRP, January 9–13, 2023.
+13. [LBL 2022] X. Yang, “DFT Beyond Moore’s Law: FPGA Design Specialization for HPC,” LBL Monthly Conference, November 2, 2022.
+14. [DOE VFP 2022] X. Yang, Mario Vega, Doru Thom Adrian Popovici, Nirmalendu Patra, and John Shalf, “DFT Beyond Moore’s Law: FPGA Design Specialization for 3D FFT for HPC,” DOE Visiting Faculty Program Summer Oral Presentation, August 5, 2022.
+15. [WDE 2022] Mario Vega, X. Yang, Doru Thom Adrian Popovici, Nirmalendu Patra, and John Shalf, “DFT Beyond Moore’s Law: Hardware Design Specialization for Streaming and Mixed FFTs,” WDE Poster Presentation, July 22, 2022.
+16. [CFD 2022] X. Yang, “Project-Centric Learning with OpenIC,” Faculty Development Week, Center for Faculty Development, UHCL, January 27, 2022.
+17. [SRP 2022] X. Yang, “High-Performance SoC Architecture,” DOE SRP, December 9–13, 2021.
+18. [GCC 2021] X. Yang, “FPGA Designs and Acceleration for Neural Networks,” Invited Short Talk, GCC Translational Imaging Conference, Virtual Event, November 2, 2021.
+19. [ES 2021] X. Yang, “FPGA Acceleration on Artificial Intelligence,” Invited Talk, Engineering Science Department, Sonoma State University, CA, 2021.
+20. [VRISE 2021] X. Yang, “An Implementation of Low-Cost System-on-Chip with Neural Network for Surveillance Cameras,” TC17–VRISE 2021, Virtual Event, October 8, 2021.
+21. [ICAMSE 2019] X. Yang, “An Advanced SoC Architecture for Low-Cost and Low-Power Edge Devices,” International Conference on Advanced Materials Sciences and Engineering, Osaka, Japan, 2019.
+22. [Robotics 2018] X. Yang, Y. Zhang, A. Gajjar, H. Schmoyer, and N. Ly, “Learning-on-Chip: Facial Detection with Approximations of FPGA Computing,” Robotics & AI Day, UHCL, August 3, 2018.
+23. [Robotics 2017] Y. Zhang and X. Yang, “Exploring Approximate Designs for FPGA-Based Edge Computing,” Robotics & AI Day, UHCL, July 21, 2017.
+24. [Robotics 2017] A. Gajjar and X. Yang, “A Smart Building System Integrated with an Edge Computing Algorithm and IoT Mesh Networks,” Robotics & AI Day, UHCL, July 21, 2017.
+25. [GBS 2016] X. Yang, “A High-Performance AES-Encrypted On-Chip Bus Architecture for Internet-of-Things System-on-Chips,” IEEE Galveston Session, NASA Johnson Space Center, Gilruth Recreation Center, November 17, 2016.
