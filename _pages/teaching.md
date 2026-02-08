@@ -16,7 +16,6 @@ Teaching Experience
 * Integrated Circuit Design Flow (CENG 5931 / CENG 4931)
 * Graduate Independent Study (CENG 5919)
 * Advanced Digital System Design (CENG 5534)
-
 * Undergraduate Independent Study (CENG 4389)
 * Digital System Design (CENG 4354)
 * Senior Project I & II (CENG 4265 / CENG 4266)
