@@ -19,7 +19,7 @@ Presently, the ICS Lab is actively seeking talented and self-motivated students 
 The student qualifications are: 1) knowledgeable in ASIC/FPGA design and simulation; and 2) knowledgeable in Chisel/Scala programming. 
 
 More details about our recent projects and training materials can be found below.
-- [Training](https://bobbieyang.github.io/lab/)) for chip design flow
-- [Projects](https://bobbieyang.github.io/portfolio/)) for recent projects
+- [Training](https://bobbieyang.github.io/lab/) for chip design flow
+- [Projects](https://bobbieyang.github.io/portfolio/) for recent projects
 
 
