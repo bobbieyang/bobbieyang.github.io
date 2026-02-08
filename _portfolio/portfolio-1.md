@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Post Moore's Law: Specialized Hardware Design for Scientific Computing"
 excerpt: "Short description of portfolio item number 1<br/><img src='/files/projects/tsqr tsmc eva.png'>"
 collection: portfolio
 ---
