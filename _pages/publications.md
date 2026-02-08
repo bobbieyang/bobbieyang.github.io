@@ -29,48 +29,30 @@ Released IPs
 
 Journals
 ======
-* [ToE 2025] X. Yang*, N. Wu, and X. Zhang, “Bridging Chip Design and Machine Learning in Undergraduate Digital Systems Curriculum,” IEEE Transactions on Education. Major revision, 2025.
-
-* [Micromachines 2023] Mukesh Chowdary Madineni, Mario Vega, and X. Yang, “Parameterizable Design on Convolutional Neuron Networks with Chisel Hardware Construction Language,” Micromachines, MDPI, Vol. 14, No. 3, Article 531, 2022.
-
-* [ToE 2021] X. Yang*, “Bridging the Gap Between Academia and Industry Needs with an Open-Source Platform in Teaching Digital System Design,” IEEE Transactions on Education, Vol. 64, No. 4, pp. 337–344, November 2021. DOI: 10.1109/TE.2021.3050450.
-
-* [JSC 2021] I. Westby and X. Yang*, “FPGA Acceleration on a Multi-Layer Perceptron Neural Network for Digit Recognition,” The Journal of Supercomputing, Springer, pp. 1–18, May 2021. DOI: 10.1007/S11227-021-03849-7.
-
-* [JCSC 2021] X. Yang* and S. Shi, “Exploiting Energy–Quality Tradeoffs on Approximate FPGA Designs of Scalable Sequential Circuits,” Journal of Circuits, Systems and Computers, Vol. 30, No. 4, Article 2150062, August 2021. DOI: 10.1142/S0218126621500626.
-
-* [NNW 2020] H. He, X. Yang*, et al., “Iterated Dilated Convolutional Neural Networks for Word Segmentation,” Neural Network World, Vol. 30, No. 5, pp. 333–346, October 2020. DOI: 10.14311/NNW.2020.30.022.
-
-* [IET-CDT 2020] X. Yang*, S. Sha, I. Unwala, and J. Lu, “Towards Third-Party IP Integration: A Case Study of High-Throughput and Low-Cost Wrapper Design on a Novel IBUS Protocol,” IET Computers & Digital Techniques, Vol. 14, No. 6, pp. 353–362, November 2020. DOI: 10.1049/iet-cdt.2019.0090.
-
-* [TODAES 2019] S. Sha, A. S. Bankar, X. Yang, W. Wen, and G. Quan, “On Fundamental Principles for Thermal-Aware Design on Periodic Real-Time Multi-Core Systems,” ACM Transactions on Design Automation of Electronic Systems, Vol. 25, No. 2, February 2020. DOI: 10.1145/3378063.
-
-* [JoC 2019] X. Yang*, et al., “A Vision of Fog Systems Integrating FPGAs and BLE Mesh Networks,” Journal of Communications, Vol. 14, No. 3, pp. 210–215, March 2019.
-
-* [JETC 2018] X. Yang*, W. Wen, and M. Fan, “Improving AES Core Performance via an Advanced IBUS Protocol,” ACM Journal on Emerging Technologies in Computing, Vol. 14, No. 1, pp. 1–23, March 2018. DOI: 10.1145/3110713.
-
-* [IJCA 2018] Y. Zhang, X. Yang*, et al., “Hierarchical Synthesis of Approximate Multiplier Design for Field-Programmable Gate Arrays,” International Journal of Computer Applications, Vol. 180, No. 17, pp. 1–7, February 2018.
-
-* [VLSID 2017] X. Yang*, N. Wu, and J. Andrian, “Comparative Power Analysis of an Adaptive Bus Encoding Method on the MBUS Structure,” Journal of VLSI Design, Article ID 4914301, pp. 1–7, May 2017. DOI: 10.1155/2017/4914301.
-
-* [JSS 2017] M. Fan, Q. Han, and X. Yang, “Energy Minimization for Online Real-Time Scheduling with Reliability Awareness,” Journal of Systems and Software, Vol. 127, pp. 168–176, May 2017. DOI: 10.1016/j.jss.2017.02.004.
-
-* [IJCA 2017] J. Thota, P. Vangali, and X. Yang*, “Prototyping an Autonomous Eye-Controlled System Using Raspberry Pi for Wheelchairs,” International Journal of Computer Applications, Vol. 158, No. 8, pp. 1–7, January 2017.
-
-* [CAE 2017] P. Vangali and X. Yang*, “A Compression Algorithm Design and Simulation for Processing Large Volumes of Data from Wireless Sensor Networks,” Communications on Applied Electronics, Vol. 7, No. 4, pp. 1–5, June 2017.
-
-* [Integration 2016] X. Yang*, N. Wu, and J. Andrian, “A Novel Bus Transfer Mode: Block Transfer and a Performance Evaluation Methodology,” Integration, the VLSI Journal, Vol. 52, pp. 23–33, January 2016.
-
-* [IJDKP 2016] K. Zeng, N. Wu, X. Yang, and K. K. Yen, “FHCC: A Soft Hierarchical Clustering Approach for Collaborative Filtering Recommendation,” International Journal of Data Mining & Knowledge Management Process, Vol. 6, No. 3, May 2016.
-
-* [TVLSI 2015] X. Yang* and J. Andrian, “A High-Performance On-Chip Bus (MSBUS) Design and Verification,” IEEE Transactions on Very Large Scale Integration (VLSI) Systems, Vol. 23, No. 7, pp. 1350–1354, July 2015.
+1. [ToE 2025] X. Yang*, N. Wu, and X. Zhang, “Bridging Chip Design and Machine Learning in Undergraduate Digital Systems Curriculum,” IEEE Transactions on Education. Major revision, 2025.
+2. [Micromachines 2023] Mukesh Chowdary Madineni, Mario Vega, and X. Yang, “Parameterizable Design on Convolutional Neuron Networks with Chisel Hardware Construction Language,” Micromachines, MDPI, Vol. 14, No. 3, Article 531, 2022.
+3. [ToE 2021] X. Yang*, “Bridging the Gap Between Academia and Industry Needs with an Open-Source Platform in Teaching Digital System Design,” IEEE Transactions on Education, Vol. 64, No. 4, pp. 337–344, November 2021. DOI: 10.1109/TE.2021.3050450.
+4. [JSC 2021] I. Westby and X. Yang*, “FPGA Acceleration on a Multi-Layer Perceptron Neural Network for Digit Recognition,” The Journal of Supercomputing, Springer, pp. 1–18, May 2021. DOI: 10.1007/S11227-021-03849-7.
+5. [JCSC 2021] X. Yang* and S. Shi, “Exploiting Energy–Quality Tradeoffs on Approximate FPGA Designs of Scalable Sequential Circuits,” Journal of Circuits, Systems and Computers, Vol. 30, No. 4, Article 2150062, August 2021. DOI: 10.1142/S0218126621500626.
+6. [NNW 2020] H. He, X. Yang*, et al., “Iterated Dilated Convolutional Neural Networks for Word Segmentation,” Neural Network World, Vol. 30, No. 5, pp. 333–346, October 2020. DOI: 10.14311/NNW.2020.30.022.
+7. [IET-CDT 2020] X. Yang*, S. Sha, I. Unwala, and J. Lu, “Towards Third-Party IP Integration: A Case Study of High-Throughput and Low-Cost Wrapper Design on a Novel IBUS Protocol,” IET Computers & Digital Techniques, Vol. 14, No. 6, pp. 353–362, November 2020. DOI: 10.1049/iet-cdt.2019.0090.
+8. [TODAES 2019] S. Sha, A. S. Bankar, X. Yang, W. Wen, and G. Quan, “On Fundamental Principles for Thermal-Aware Design on Periodic Real-Time Multi-Core Systems,” ACM Transactions on Design Automation of Electronic Systems, Vol. 25, No. 2, February 2020. DOI: 10.1145/3378063.
+9. [JoC 2019] X. Yang*, et al., “A Vision of Fog Systems Integrating FPGAs and BLE Mesh Networks,” Journal of Communications, Vol. 14, No. 3, pp. 210–215, March 2019.
+10. [JETC 2018] X. Yang*, W. Wen, and M. Fan, “Improving AES Core Performance via an Advanced IBUS Protocol,” ACM Journal on Emerging Technologies in Computing, Vol. 14, No. 1, pp. 1–23, March 2018. DOI: 10.1145/3110713.
+11. [IJCA 2018] Y. Zhang, X. Yang*, et al., “Hierarchical Synthesis of Approximate Multiplier Design for Field-Programmable Gate Arrays,” International Journal of Computer Applications, Vol. 180, No. 17, pp. 1–7, February 2018.
+12. [VLSID 2017] X. Yang*, N. Wu, and J. Andrian, “Comparative Power Analysis of an Adaptive Bus Encoding Method on the MBUS Structure,” Journal of VLSI Design, Article ID 4914301, pp. 1–7, May 2017. DOI: 10.1155/2017/4914301.
+13. [JSS 2017] M. Fan, Q. Han, and X. Yang, “Energy Minimization for Online Real-Time Scheduling with Reliability Awareness,” Journal of Systems and Software, Vol. 127, pp. 168–176, May 2017. DOI: 10.1016/j.jss.2017.02.004.
+14. [IJCA 2017] J. Thota, P. Vangali, and X. Yang*, “Prototyping an Autonomous Eye-Controlled System Using Raspberry Pi for Wheelchairs,” International Journal of Computer Applications, Vol. 158, No. 8, pp. 1–7, January 2017.
+15. [CAE 2017] P. Vangali and X. Yang*, “A Compression Algorithm Design and Simulation for Processing Large Volumes of Data from Wireless Sensor Networks,” Communications on Applied Electronics, Vol. 7, No. 4, pp. 1–5, June 2017.
+16. [Integration 2016] X. Yang*, N. Wu, and J. Andrian, “A Novel Bus Transfer Mode: Block Transfer and a Performance Evaluation Methodology,” Integration, the VLSI Journal, Vol. 52, pp. 23–33, January 2016.
+17. [IJDKP 2016] K. Zeng, N. Wu, X. Yang, and K. K. Yen, “FHCC: A Soft Hierarchical Clustering Approach for Collaborative Filtering Recommendation,” International Journal of Data Mining & Knowledge Management Process, Vol. 6, No. 3, May 2016.
+18. [TVLSI 2015] X. Yang* and J. Andrian, “A High-Performance On-Chip Bus (MSBUS) Design and Verification,” IEEE Transactions on Very Large Scale Integration (VLSI) Systems, Vol. 23, No. 7, pp. 1350–1354, July 2015.
 
   
 Conferences
 ======
-* [IPDPS 2026] Doru Thom Popovici, Mario Vega, Angelos Ioannou, Fabien Chaix, Dania Mosuli, Blair Reasoner, Tan Nguyen, Xiaokun Yang, and John Shalf, “Accelerating Density Functional Theory Calculations Through Hardware Codesign,” 60th IEEE International Parallel and Distributed Processing Symposium (IPDPS), submitted, 2026.
-
-* [FPGA 2026] Doru Thom Popovici, Mario Vega, Angelos Ioannou, Fabien Chaix, Dania Mosuli, Blair Reasoner, Tan Nguyen, Xiaokun Yang, and John Shalf, “A Hierarchical Methodology for Hardware Design Comparison in HPC Workloads,” 34th ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA), submitted, 2026.
+1. [IPDPS 2026] Doru Thom Popovici, Mario Vega, Angelos Ioannou, Fabien Chaix, Dania Mosuli, Blair Reasoner, Tan Nguyen, Xiaokun Yang, and John Shalf, “Accelerating Density Functional Theory Calculations Through Hardware Codesign,” 60th IEEE International Parallel and Distributed Processing Symposium (IPDPS), submitted, 2026.
+2. [FPGA 2026] Doru Thom Popovici, Mario Vega, Angelos Ioannou, Fabien Chaix, Dania Mosuli, Blair Reasoner, Tan Nguyen, Xiaokun Yang, and John Shalf, “A Hierarchical Methodology for Hardware Design Comparison in HPC Workloads,” 34th ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA), submitted, 2026.
 
 * [ICDM-REU 2025] Spencer M. Buchanan, Jose Ramos, Cameron D. DiSomma, Yunxiang Zhang, Yunfeng Zhao, and Xiaokun Yang, “Parameterized Hardware Generation for Mini-Float Summation-of-Absolute-Differences for CNN Models,” IEEE International Conference on Data Mining (ICDM), submitted, 2025.
 
