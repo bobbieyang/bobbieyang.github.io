@@ -9,11 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Team
 ======
-* Ph.D in )
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Current Students
+  * Dania Mosuli
+  * Spencer Buchanan
+  * Anthony Cruz
+  * Cameron D. DiSomma
+  * Jeremy Turner
+* Former Students
+  * Blair Reasoner, 2024, RTL CPU Designer, IBM
+  * Mario Vega, 2023, Computer Systems Engineer, Lawrence Berkeley National Laboratory
+  * Madineni, Mukesh Chowdary, 2022, Graduation Implementation Engineer, ARM
+  * April Reed, 2021, ASIC and FPGA Design Engineer, Lockheed Martin
+  * Harold William Schmoyer, 2021
+  * Isaac Westby, 2020, Graduate Applications Engineer, ARM
+  * Yunxiang Zhang, 2019, Assistant Professor, University of Arkansas
+  * Archit Gajjar, 2018, Postdoctoral Research Associate, HP Labs 
 
   
 IC Design Flow
