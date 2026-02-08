@@ -14,7 +14,9 @@ Textbook: Industry Chip Design Flow
 X. Yang, Integrated Circuit Design: IC Design Flow and Project-Based Learning, 1st edition. Boca Raton: CRC Press, 2024. DOI: 10.1201/9781003187080. ISBN: 978-1-032-03079-1. 506 pages.
 
 Please find the [open materials](https://github.com/IC-Design-Lab/IC-Design.git) to the textbook. 
-![Integrated Circuit Design book cover]({{ base_path }}/images/ic design book.jpg)
+<img src="{{ base_path }}/images/ic design book.jpg"
+     alt="Integrated Circuit Design book cover"
+     width="220">
 
 
 Teaching Experience
