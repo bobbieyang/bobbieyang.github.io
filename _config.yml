@@ -23,7 +23,7 @@ repository               : "bobbieyang/bobbieyang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bobbieyang.jpg"
   name             : "Xiaokun (Bobbie) Yang"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor, UHCL"
