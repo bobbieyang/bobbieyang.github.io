@@ -14,6 +14,8 @@ Before entering academia, Dr. Yang spent nearly a decade in industry as an ASIC 
 Should you have any questions, please feel free to contact
 [yangxia@uhcl.edu](mailto:yangxia@uhcl.edu) or
 [xiaokunyang@lbl.gov](mailto:xiaokunyang@lbl.gov).
+[yangxia@uhcl.edu](mailto:yangxia@uhcl.edu?subject=Research%20Inquiry)
+
 
 
 Student Recruiting
