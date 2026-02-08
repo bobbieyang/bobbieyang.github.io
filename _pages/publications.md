@@ -53,44 +53,25 @@ Conferences
 ======
 1. [IPDPS 2026] Doru Thom Popovici, Mario Vega, Angelos Ioannou, Fabien Chaix, Dania Mosuli, Blair Reasoner, Tan Nguyen, Xiaokun Yang, and John Shalf, “Accelerating Density Functional Theory Calculations Through Hardware Codesign,” 60th IEEE International Parallel and Distributed Processing Symposium (IPDPS), submitted, 2026.
 2. [FPGA 2026] Doru Thom Popovici, Mario Vega, Angelos Ioannou, Fabien Chaix, Dania Mosuli, Blair Reasoner, Tan Nguyen, Xiaokun Yang, and John Shalf, “A Hierarchical Methodology for Hardware Design Comparison in HPC Workloads,” 34th ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA), submitted, 2026.
-
-* [ICDM-REU 2025] Spencer M. Buchanan, Jose Ramos, Cameron D. DiSomma, Yunxiang Zhang, Yunfeng Zhao, and Xiaokun Yang, “Parameterized Hardware Generation for Mini-Float Summation-of-Absolute-Differences for CNN Models,” IEEE International Conference on Data Mining (ICDM), submitted, 2025.
-
-* [ICDM-REU 2025] Jeremy W. Turner, Cameron D. DiSomma, Lei Fan, Xuechen Zhang, and Xiaokun Yang, “Hardware Generators for Quantum Gate Emulation and Acceleration,” IEEE International Conference on Data Mining (ICDM), submitted, 2025.
-
-* [ICDM-REU 2025] Keenan Powell, Rubayet Rongon, Xiaokun Yang, and Xuechen Zhang, “Accelerating Deep-Learning Applications with Efficient Tensor Layout Management,” IEEE International Conference on Data Mining (ICDM), submitted, 2025.
-
-* [ICDM 2025] K. Sanchez, R. Rongon, A. Farooqui, T. E. Haynes, Xiaokun Yang, K. Wu, H. Tang, and X. Zhang, “Scaling Data Augmentation for Machine Learning Applications Using Computational Storage Devices,” IEEE International Conference on Data Mining (ICDM), submitted, 2025.
-
-* [SEET 2025] Cameron D. DiSomma, Dania S. Mosuli, and Xiaokun Yang, “A Reusable Software–Hardware Co-Design FPGA Platform for Floating-Point Operations,” International Conference on Software Engineering of Emerging Technologies (SEET 2025), submitted, Long Beach, CA, USA, August 11–12, 2025.
-
-* [SEET 2025] A. Cruz and Xiaokun Yang, “AI-Powered Engine Component Identifier for Vehicle Maintenance,” International Conference on Software Engineering of Emerging Technologies (SEET 2025), submitted, Long Beach, CA, USA, August 11–12, 2025.
-
-* [AIIoT 2025] Brandon Fong, Nansong Wu, Xiaokun Yang, and Kaiman Zeng, “FPGA-Based Automatic Music Transcription as a Web Service,” IEEE World AI IoT Congress (AIIoT), accepted, December 2025, Osaka, Japan.
-
-* [BigData 2024] Paul Wong, Dania Susanne Mosuli, Xuechen Zhang, and Xiaokun Yang, “Hardware Generation on Trigonometric Functions,” IEEE International Conference on Big Data (BigData), Washington, DC, USA, 2024, pp. 7571–7576. DOI: 10.1109/BigData62323.2024.10825243.
-
-* [HPEC 2023] Mario Vega, X. Yang, John Shalf, and Doru Adrian Thom Popovici, “Towards a Flexible Hardware Implementation for Mixed-Radix Fourier Transforms,” IEEE High Performance Extreme Computing Conference (HPEC), Boston, MA, USA, 2023, pp. 1–7.
-
-* [UEMCON 2023] C. Hingu, X. Fu, R. Challoo, J. Lu, X. Yang, and L. Qingge, “Accelerating FPGA Implementation of Neural Network Controllers via 32-bit Fixed-Point Design for Real-Time Control,” IEEE Ubiquitous Computing, Electronics and Mobile Communication Conference (UEMCON), Best Paper Award, New York, NY, USA, 2023, pp. 0445–0450.
-
-* [CLOUD 2022] G. Ding, Z. Li, Y. Wu, X. Yang, M. Aliasgari, and H. Xu, “Towards an Efficient Client Selection System for Federated Learning,” IEEE International Conference on Cloud Computing (CLOUD 2022), Springer LNCS.
-
-* [DAC 2022] S. Sha and X. Yang, “Endurance-Aware Real-Time Scheduling on ReRAM Accelerators,” IEEE/ACM Design Automation Conference (DAC), Work-in-Progress, San Francisco, CA, USA, 2022.
-
-* [ISQED 2022] A. L. Reed and X. Yang, “Lightweight Neural Network Architectures for Resource-Limited Devices,” IEEE/ACM International Symposium on Quality Electronic Design (ISQED), Santa Clara, CA, USA, 2022.
-
-* [ISMCR 2022] M. Vega, M. Madineni, and X. Yang, “Case Studies of Configurable Binary Design Library on FPGA,” IEEE International Symposium on Measurement and Control in Robotics (ISMCR), Houston, TX, USA, 2022.
-
-* [ISMCR 2022] S. K. Surapally and X. Yang, “Evaluating FPGA Acceleration on Binarized Neural Networks and Quantized Neural Networks,” IEEE International Symposium on Measurement and Control in Robotics (ISMCR), Houston, TX, USA, 2022.
-
-* [GreenTech 2022] M. Ejaz, I. Unwala, J. Lu, and X. Yang, “Securing Hardware Development Process Using Blockchain,” IEEE Green Technologies Conference (GreenTech), Houston, TX, USA, 2022.
-
-* [CSCE 2021] S. Ek, M. Curci, X. Yang, et al., “Sentiment Analysis of Long-Term Social Data during the COVID-19 Pandemic,” World Congress in Computer Science, Computer Engineering, and Applied Computing (CSCE), Las Vegas, NV, USA, 2021.
-
-* [ISQED 2019] X. Yang, Y. Zhang, and L. Wu, “A Scalable Image/Video Processing Platform with an Open-Source Design and Verification Environment,” International Symposium on Quality Electronic Design (ISQED), Santa Clara, CA, USA, 2019.
-
-* [ISVLSI 2019] K. Vaca, A. Gajjar, and X. Yang, “Real-Time Automatic Music Transcription with Zynq FPGA,” IEEE Computer Society Annual Symposium on VLSI (ISVLSI), Miami, FL, USA, 2019.
+3. [ICDM-REU 2025] Spencer M. Buchanan, Jose Ramos, Cameron D. DiSomma, Yunxiang Zhang, Yunfeng Zhao, and Xiaokun Yang, “Parameterized Hardware Generation for Mini-Float Summation-of-Absolute-Differences for CNN Models,” IEEE International Conference on Data Mining (ICDM), submitted, 2025.
+4. [ICDM-REU 2025] Jeremy W. Turner, Cameron D. DiSomma, Lei Fan, Xuechen Zhang, and Xiaokun Yang, “Hardware Generators for Quantum Gate Emulation and Acceleration,” IEEE International Conference on Data Mining (ICDM), submitted, 2025.
+5. [ICDM-REU 2025] Keenan Powell, Rubayet Rongon, Xiaokun Yang, and Xuechen Zhang, “Accelerating Deep-Learning Applications with Efficient Tensor Layout Management,” IEEE International Conference on Data Mining (ICDM), submitted, 2025.
+6. [ICDM 2025] K. Sanchez, R. Rongon, A. Farooqui, T. E. Haynes, Xiaokun Yang, K. Wu, H. Tang, and X. Zhang, “Scaling Data Augmentation for Machine Learning Applications Using Computational Storage Devices,” IEEE International Conference on Data Mining (ICDM), submitted, 2025.
+7. [SEET 2025] Cameron D. DiSomma, Dania S. Mosuli, and Xiaokun Yang, “A Reusable Software–Hardware Co-Design FPGA Platform for Floating-Point Operations,” International Conference on Software Engineering of Emerging Technologies (SEET 2025), submitted, Long Beach, CA, USA, August 11–12, 2025.
+8. [SEET 2025] A. Cruz and Xiaokun Yang, “AI-Powered Engine Component Identifier for Vehicle Maintenance,” International Conference on Software Engineering of Emerging Technologies (SEET 2025), submitted, Long Beach, CA, USA, August 11–12, 2025.
+9. [AIIoT 2025] Brandon Fong, Nansong Wu, Xiaokun Yang, and Kaiman Zeng, “FPGA-Based Automatic Music Transcription as a Web Service,” IEEE World AI IoT Congress (AIIoT), accepted, December 2025, Osaka, Japan.
+10. [BigData 2024] Paul Wong, Dania Susanne Mosuli, Xuechen Zhang, and Xiaokun Yang, “Hardware Generation on Trigonometric Functions,” IEEE International Conference on Big Data (BigData), Washington, DC, USA, 2024, pp. 7571–7576. DOI: 10.1109/BigData62323.2024.10825243.
+11. [HPEC 2023] Mario Vega, X. Yang, John Shalf, and Doru Adrian Thom Popovici, “Towards a Flexible Hardware Implementation for Mixed-Radix Fourier Transforms,” IEEE High Performance Extreme Computing Conference (HPEC), Boston, MA, USA, 2023, pp. 1–7.
+12. [UEMCON 2023] C. Hingu, X. Fu, R. Challoo, J. Lu, X. Yang, and L. Qingge, “Accelerating FPGA Implementation of Neural Network Controllers via 32-bit Fixed-Point Design for Real-Time Control,” IEEE Ubiquitous Computing, Electronics and Mobile Communication Conference (UEMCON), Best Paper Award, New York, NY, USA, 2023, pp. 0445–0450.
+13. [CLOUD 2022] G. Ding, Z. Li, Y. Wu, X. Yang, M. Aliasgari, and H. Xu, “Towards an Efficient Client Selection System for Federated Learning,” IEEE International Conference on Cloud Computing (CLOUD 2022), Springer LNCS.
+14. [DAC 2022] S. Sha and X. Yang, “Endurance-Aware Real-Time Scheduling on ReRAM Accelerators,” IEEE/ACM Design Automation Conference (DAC), Work-in-Progress, San Francisco, CA, USA, 2022.
+15. [ISQED 2022] A. L. Reed and X. Yang, “Lightweight Neural Network Architectures for Resource-Limited Devices,” IEEE/ACM International Symposium on Quality Electronic Design (ISQED), Santa Clara, CA, USA, 2022.
+16. [ISMCR 2022] M. Vega, M. Madineni, and X. Yang, “Case Studies of Configurable Binary Design Library on FPGA,” IEEE International Symposium on Measurement and Control in Robotics (ISMCR), Houston, TX, USA, 2022.
+17. [ISMCR 2022] S. K. Surapally and X. Yang, “Evaluating FPGA Acceleration on Binarized Neural Networks and Quantized Neural Networks,” IEEE International Symposium on Measurement and Control in Robotics (ISMCR), Houston, TX, USA, 2022.
+18. [GreenTech 2022] M. Ejaz, I. Unwala, J. Lu, and X. Yang, “Securing Hardware Development Process Using Blockchain,” IEEE Green Technologies Conference (GreenTech), Houston, TX, USA, 2022.
+19. [CSCE 2021] S. Ek, M. Curci, X. Yang, et al., “Sentiment Analysis of Long-Term Social Data during the COVID-19 Pandemic,” World Congress in Computer Science, Computer Engineering, and Applied Computing (CSCE), Las Vegas, NV, USA, 2021.
+20. [ISQED 2019] X. Yang, Y. Zhang, and L. Wu, “A Scalable Image/Video Processing Platform with an Open-Source Design and Verification Environment,” International Symposium on Quality Electronic Design (ISQED), Santa Clara, CA, USA, 2019.
+21. [ISVLSI 2019] K. Vaca, A. Gajjar, and X. Yang, “Real-Time Automatic Music Transcription with Zynq FPGA,” IEEE Computer Society Annual Symposium on VLSI (ISVLSI), Miami, FL, USA, 2019.
 
 * [ASP-DAC 2017] X. Yang and W. Wen, “Design of a Pre-Scheduled Data Bus (DBUS) for AES-Encrypted System-on-Chips,” Asia and South Pacific Design Automation Conference (ASP-DAC), Chiba, Japan, 2017.
 
