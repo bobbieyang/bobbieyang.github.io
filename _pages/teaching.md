@@ -11,7 +11,7 @@ redirect_from:
 
 Textbook: Industry Chip Design Flow
 ======
-<img src="{{ base_path }}/assets/images/ic design book.jpg"
+<img src="{{ base_path }}/images/ic design book.jpg"
      alt="Integrated Circuit Design book cover"
      style="float: right; margin: 0 0 1em 1.5em;"
      width="80">
