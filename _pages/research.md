@@ -121,11 +121,22 @@ Awards
 
 * Student President (1 of 65), Beihang–FIU Integrated Circuit Program, 2005–2007
 
-Publications
+Industrial Certificates \& Training
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* UVM Methodology Training, AMD, 2012
+* IP/SoC Tree Working Environment Training, AMD, 2012
+* dj/dv/perl/C++ Verification Environment Training, AMD, 2012
+* SystemVerilog and UVM Training, Mentor Graphics, 2011
+* Low-Power Technology Training (CPF design flow), Cadence, 2011
+* Assertion Training, Synopsys, 2011
+* ARM Technical Training Course (October 12–13), ARM, 2010
+* Mixed-Signal Technologies (AMS tool introduction), Cadence, 2010
+* Constraint-Random Test and Coverage Training, Synopsys, 2009
+* VMM Verification Methodology, Synopsys, 2009
+* DesignWare IP Integration Training (USB 2.0 OTG Controller, Ethernet Controller), Synopsys, 2008
+* DC and Layout Training, Mentor Graphics, 2007
+* Integrated Circuit Design Flow Training, Mentor Graphics, 2006
+* EDA Tools Training (ModelSim and Vim), Mentor Graphics, 2005
   
 Talks
 ======
