@@ -29,7 +29,7 @@ Research Grant (Awarded):
 
 * PI, Berkeley Lab Fellowship, Collaborative Research: Hardware Accelerator Design on TSQR Factorization. $37,800. Awarded, DOE. Summer 2023
 
-PI, DOE Visiting Faculty Program (VFP), Collaborative Research: Hardware Accelerator Design on 3D Fourier Transform. $25,900. Awarded, DOE. Summer 2022
+* PI, DOE Visiting Faculty Program (VFP), Collaborative Research: Hardware Accelerator Design on 3D Fourier Transform. $25,900. Awarded, DOE. Summer 2022
 
 * Research Advisor, Integrated Circuit Design and Verification, NSF HSI-ELPSG. $20,000. Awarded, UHCL. 2022–2023
 
@@ -51,22 +51,18 @@ PI, DOE Visiting Faculty Program (VFP), Collaborative Research: Hardware Acceler
 
 * PI, NSF Travel Grant. $1,580. Awarded. 2017
 
-Work experience
+Federal Research Proposals
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* NSF Future CoRe 297455, Collaborative Research: FET: Scalable and Accelerated Quantum Circuit Simulator (PI). $204,738 ($600,000 total). February 2026.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* NSF SaTC 2.0 297432, Collaborative Research: SaTC 2.0: RES: Trusted and Secure Quantum Computing through Multi-Level Decomposition (Co-PI). $64,986 ($600,000 total). January 2026.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* NSF Future CoRe 297429, Collaborative Research: CSR: Defer-CSD: Eliminating Critical-Path Write Latency in Computational Storage for Long-Context LLM Inference (Co-PI). $173,643 ($600,000 total). February 2025.
+
+* NSF DMREF 2523186, Additive Manufacturing of Advanced Composite Materials Enhanced by Machine Learning and Artificial Intelligence to Revolutionize and Engineer Our Future (Co-PI). $1,628,014. February 2025.
+
+* NSF RITEL 2603598, Collaborative Research: Transforming Integrated Circuit Education From Design to Deployment (PI). $359,995 ($900,000 total).
+
   
 Skills
 ======
