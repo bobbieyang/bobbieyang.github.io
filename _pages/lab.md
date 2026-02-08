@@ -37,8 +37,8 @@ Skills
 * Skill 1
 * Skill 2
   * <a href="{{ base_path }}/files/chisel/Chisel Design - XY.pdf" target="_blank">📄 chisel design</a>
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+  * <a href="{{ base_path }}/files/chisel/Chisel Env Setup - XY.pdf" target="_blank">📄 chisel design</a>
+  * <a href="{{ base_path }}/files/chisel/Chisel Design - XY.pdf" target="_blank">📄 chisel design</a>
 * Skill 3
 
 Publications
