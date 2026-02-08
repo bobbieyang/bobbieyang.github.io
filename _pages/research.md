@@ -86,7 +86,7 @@ Awards
 * Outstanding Student Leader (14 of 500), Beihang University, 2006–2007
 * Student President (1 of 65), Beihang–FIU Integrated Circuit Program, 2005–2007
 
-Industrial Certificates \& Training
+Industrial Certificates & Training
 ======
 * UVM Methodology Training, AMD, 2012
 * IP/SoC Tree Working Environment Training, AMD, 2012
