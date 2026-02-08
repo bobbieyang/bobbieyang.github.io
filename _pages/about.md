@@ -10,7 +10,7 @@ redirect_from:
 Dr. Xiaokun Yang is an Associate Professor in the College of Science and Engineering at the University of Houston–Clear Lake and an Affiliate Faculty member in the Computer Architecture Group within the Computer Science Department at Lawrence Berkeley National Laboratory. He is a recipient of the 2025 President’s Distinguished Faculty Award, the 2025 Distinguished Professor Award, and the 2025 Semi-Finalist of the Minnie Piper Award. His research is currently supported by multiple federal grants (in total $700K), including awards from the U.S. Department of Energy (ASCR) and the National Science Foundation (CSSI, REU, and others). Before entering academia, Dr. Yang spent nearly a decade in industry as an ASIC Design and Verification Engineer at Advanced Micro Devices (AMD) and China Electronics Corporation (CEC). He earned his Ph.D. in Electrical and Computer Engineering from Florida International University (FIU) in 2016. Dr. Yang’s research focuses on specialized hardware design, generation, and acceleration for scientific computing; and quantum circuit emulation, simulation, and acceleration. As first and/or corresponding author, he has published more than 50 scholarly works, including one textbook, three patents, over 15 peer-reviewed journal articles, and more than 40 papers in prestigious international conferences.
 
 More information, please find the Projects, Github, and Integrated Circuit Design Lab (IC-Design-Lab) .
-Should you have any questions, please feel free to contact yangxia@uhcl.edu or xiaokunyang@lbl.gov .
+Should you have any questions, please feel free to contact [yangxia@uhcl.edu](yangxia@uhcl.edu) yangxia@uhcl.edu or [xiaokunyang@lbl.gov](xiaokunyang@lbl.gov).
 
 Student Recruiting
 ======
@@ -19,7 +19,6 @@ Presently, the ICS Lab is actively seeking talented and self-motivated students 
 The student qualifications are: 1) knowledgeable in ASIC/FPGA design and simulation; and 2) knowledgeable in Chisel/Scala programming. 
 
 More details about our recent projects and training materials can be found below.
-- [Training](https://bobbieyang.github.io/lab/) for chip design flow
-- [Projects](https://bobbieyang.github.io/portfolio/) for recent projects
-
+- [Training tutorials](https://bobbieyang.github.io/lab/) for chip design flow
+- [Recent projects](https://bobbieyang.github.io/portfolio/) for classical-quantum chip design
 
