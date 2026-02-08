@@ -12,7 +12,6 @@ redirect_from:
 Research Grant (Awarded):
 ======
 * Subawardee (UHCL PI), Department of Energy (DOE) ASCR 24-3210, Thrust-E: Basic research topics: Algorithm-Driven Codesign of Specialized Architectures for Energy-Efficient HPC. $319,998 ($32,000,000 total). Awarded. 2024–2028
-
 * Co-PI (UHCL PI), NSF 2512983, Collaborative Research: Elements: Computational Storage Virtualization for Accelerating Data-Driven Scientific Applications on Supercomputers. $120,621 ($400,000 total). 2025–2028
 
 * Co-PI (UHCL PI), NSF 2243981, Collaborative Research: REU Site: Advancing Data-Driven Deep Coupling of Computational Simulations and Experiments. $46,706 ($450,623 total). Awarded. 2024–2027
