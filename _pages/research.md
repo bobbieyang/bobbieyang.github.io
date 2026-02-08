@@ -64,14 +64,63 @@ Federal Research Proposals
 * NSF RITEL 2603598, Collaborative Research: Transforming Integrated Circuit Education From Design to Deployment (PI). $359,995 ($900,000 total).
 
   
-Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* President’s Distinguished Faculty Research Award, University of Houston–Clear Lake, 2025
+
+* Distinguished Professorship Award, Computer Science and Engineering, University of Houston–Clear Lake, 2025
+
+* Minnie Stevens Piper Teaching Award (Semi-Finalist Nominee), University of Houston–Clear Lake, 2025
+
+* Hawk Spirit Award (Nominee), University of Houston–Clear Lake, 2025
+
+* Improving the Academy Award (Nominee), University of Houston–Clear Lake, 2025
+
+* DOE / Lawrence Berkeley National Laboratory Summer Research Fellowship, Lawrence Berkeley National Laboratory, 2024
+
+* Minnie Stevens Piper Teaching Award (Nominee), University of Houston–Clear Lake, 2024
+
+* DOE / Lawrence Berkeley National Laboratory Summer Research Fellowship, Lawrence Berkeley National Laboratory, 2023
+
+* Best Paper Award, IEEE UEMCON, New York, NY, 2023
+
+* DOE / Lawrence Berkeley National Laboratory Summer Research SRP Visiting Faculty Program, Lawrence Berkeley National Laboratory, 2022
+
+* President’s Distinguished Faculty Award in Teaching (Nominee), University of Houston–Clear Lake, 2022
+
+* Instructional Innovation Award, University of Houston–Clear Lake, 2021–2022
+
+* New Faculty Research Award (Nominee), University of Houston–Clear Lake, 2021
+
+* Minnie Stevens Piper Teaching Award (Nominee), University of Houston–Clear Lake, 2018
+
+* Best Poster Award, IEEE DataCom, Orlando, FL, 2017
+
+* Best Ph.D. Forum Paper Award, IEEE ISVLSI, Tampa, FL, 2014
+
+* Dissertation Year Fellowship, Florida International University, 2015–2016
+
+* Teaching and Research Assistant Scholarship, Florida International University, 2012–2015
+
+* Graduate Student Appreciation Week Scholarship, Florida International University, 2016
+
+* SGA Graduate Scholarship, Florida International University, 2015
+
+* Graduate Student Travel Grant (GPSC), DAC 2016, Florida International University, 2016
+
+* Graduate Student Travel Grant (GPSC), ISVLSI 2014, Florida International University, 2014
+
+* Graduate Student Travel Grant (GPSC), SSST 2013, Florida International University, 2013
+
+* Presidential Fellowship (Nominee), Florida International University, 2012
+
+* Chair, Social Planning Department, FIU China Alumni Association, 2009–Present
+
+* Outstanding Graduate Representative (2 of 120), Beihang University, 2007
+
+* Outstanding Student Leader (14 of 500), Beihang University, 2006–2007
+
+* Student President (1 of 65), Beihang–FIU Integrated Circuit Program, 2005–2007
 
 Publications
 ======
