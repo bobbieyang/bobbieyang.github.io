@@ -18,8 +18,12 @@ X. Yang, Integrated Circuit Design: IC Design Flow and Project-Based Learning, 1
 
 Please find the [open materials](https://github.com/IC-Design-Lab/IC-Design.git) to the textbook. 
 
-<a href="{{ base_path }}/files/chip/lec1.pdf" target="_blank">📄 Lec1.
-
+<a href="{{ base_path }}/files/chip/lec1.pdf" target="_blank">📄 Lec1
+<a href="{{ base_path }}/files/chip/lec2.pdf" target="_blank">📄 Lec2
+<a href="{{ base_path }}/files/chip/lec3.pdf" target="_blank">📄 Lec3
+<a href="{{ base_path }}/files/chip/lec4.pdf" target="_blank">📄 Lec4
+<a href="{{ base_path }}/files/chip/lec5.pdf" target="_blank">📄 Lec5
+<a href="{{ base_path }}/files/chip/lec6.pdf" target="_blank">📄 Lec6
 
 Teaching Experience
 ======
