@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Research Grant:
+Research Grant
 ======
 * Subawardee (UHCL PI), Department of Energy (DOE) ASCR 24-3210, Thrust-E: Basic research topics: Algorithm-Driven Codesign of Specialized Architectures for Energy-Efficient HPC. $319,998 ($32,000,000 total). Awarded. 2024–2028
   
