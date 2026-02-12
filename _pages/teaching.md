@@ -31,6 +31,10 @@ Please find the [open materials](https://github.com/IC-Design-Lab/IC-Design.git)
 <a href="{{ base_path }}/files/chip/Lec11.pdf" target="_blank">📄 Lec11; 
 <a href="{{ base_path }}/files/chip/Lec12.pdf" target="_blank">📄 Lec12
 
+  * <a href="{{ base_path }}/files/chip/Appendix A.pdf" target="_blank">📄 Project Directory and Vim Editor Tutorial</a>
+  * <a href="{{ base_path }}/files/chip/Appendix B.pdf" target="_blank">📄 Siemens ModelSim Tutorial</a>
+  * <a href="{{ base_path }}/files/chip/Appendix C.pdf" target="_blank">📄 AMD Vivado Tutorial </a>
+  
 Teaching Experience
 ======
 * Master’s Thesis (CENG 6939)
