@@ -21,7 +21,7 @@ Patents
 
 Released IPs
 ======
-* John Shalf, X. Yang*, Doru Thom Popovici, and Mario Vega, ``OpenFPU: OpenSource Hardware Generators for Scientific Computing,'' *Advanced Computation: HPC - Design \& Methods, Version 1.0, 2024. [Online]. University of Houston System and Lawrence Berkeley National Laboratory. Available: \\Repository Link: https://socks.lbl.gov/mvega/chisel-fp-generators.
+* John Shalf, X. Yang*, Doru Thom Popovici, and Mario Vega, ``OpenFPU: OpenSource Hardware Generators for Scientific Computing,'' *Advanced Computation: HPC - Design & Methods, Version 1.0, 2024. [Online]. University of Houston System and Lawrence Berkeley National Laboratory. Repository Link: https://socks.lbl.gov/mvega/chisel-fp-generators.
 
 Journals
 ======
