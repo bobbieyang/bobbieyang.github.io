@@ -13,13 +13,14 @@ Team
 ======
 * Current Students
   * Dania Mosuli
+  * Talha Penkar
   * Spencer Buchanan
-  * Anthony Cruz
   * Cameron D. DiSomma
   * Jeremy Turner
 * Former Students
   * Blair Reasoner, 2024, RTL CPU Designer, IBM
   * Mario Vega, 2023, Computer Systems Engineer, Lawrence Berkeley National Laboratory
+  * Anthony Cruz, 2025, Amazon
   * Madineni, Mukesh Chowdary, 2022, Graduation Implementation Engineer, ARM
   * April Reed, 2021, ASIC and FPGA Design Engineer, Lockheed Martin
   * Harold William Schmoyer, 2021
@@ -31,15 +32,13 @@ Team
 IC Design Flow
 ======
 * IC Design Tutorials
-  * <a href="{{ base_path }}/files/chip/Appendix A.pdf" target="_blank">📄 Project Directory and Vim Editor
-Tutorial</a>
+  * <a href="{{ base_path }}/files/chip/Appendix A.pdf" target="_blank">📄 Project Directory and Vim Editor Tutorial</a>
   * <a href="{{ base_path }}/files/chip/Appendix B.pdf" target="_blank">📄 Siemens ModelSim Tutorial</a>
-  * <a href="{{ base_path }}/files/chip/Appendix C.pdf" target="_blank">📄 IC Design and Simulation
-Tutorial</a>
+  * <a href="{{ base_path }}/files/chip/Appendix C.pdf" target="_blank">📄 AMD Vivado Tutorial </a>
 * Chisel Tutorials
-  * <a href="{{ base_path }}/files/chisel/Chisel Design - XY.pdf" target="_blank">📄 Chisel Design on Fundamental IC</a>
-  * <a href="{{ base_path }}/files/chisel/Chisel Env Setup - XY.pdf" target="_blank">📄 IntelliJ IDEA Setup for Chisel</a>
   * <a href="{{ base_path }}/files/chisel/Chisel and IC Projects Structuring - XY.pdf" target="_blank">📄 Chisel and IC Projects Structuring</a>
+  * <a href="{{ base_path }}/files/chisel/Chisel Env Setup - XY.pdf" target="_blank">📄 IntelliJ IDEA Setup for Chisel</a>
+  * <a href="{{ base_path }}/files/chisel/Chisel Design - XY.pdf" target="_blank">📄 Chisel Design on Fundamental IC</a>
 
 
   
