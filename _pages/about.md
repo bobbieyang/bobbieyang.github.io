@@ -21,7 +21,7 @@ Should you have any questions, please feel free to contact
 
 Student Recruiting
 ======
-Presently, the ICS Lab is actively seeking talented and self-motivated students who possess a keen interest in hardware design for scientific computing and quantum computing, as well as machine learning applications on ASICs/FPGAs. These selected students will receive robust support through federal grants, including the esteemed DOE ASCR, NSF CSSI, and NSF REU programs. 
+Presently, the Chip Design Lab is actively seeking talented and self-motivated students who possess a keen interest in hardware design for scientific computing and quantum computing, as well as machine learning applications on ASICs/FPGAs. These selected students will receive robust support through federal grants, including the esteemed DOE ASCR, NSF CSSI, and NSF REU programs. 
 
 The student qualifications are: 1) knowledgeable in ASIC/FPGA design and simulation; and 2) knowledgeable in Chisel/Scala programming. 
 
