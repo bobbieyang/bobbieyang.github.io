@@ -52,7 +52,7 @@ Teaching Experience
 <a href="{{ base_path }}/files/electronics/Lec5.pdf" target="_blank">📄 Lec5; 
 <a href="{{ base_path }}/files/electronics/Lec6.pdf" target="_blank">📄 Lec6; 
 <a href="{{ base_path }}/files/electronics/Lec7.pdf" target="_blank">📄 Lec7; 
-<a href="{{ base_path }}/files/electronics/Lec14.pdf" target="_blank">📄 Lec8; 
+<a href="{{ base_path }}/files/electronics/Lec14.pdf" target="_blank">📄 Lec14; 
 * Lab for Computer Architecture (CENG 3151)
 * Lab for Electronics (CENG 3116)
 * Lab for Linear Circuits (CENG 2113)
