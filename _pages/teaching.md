@@ -46,6 +46,13 @@ Teaching Experience
 * Digital System Design (CENG 4354)
 * Senior Project I & II (CENG 4265 / CENG 4266)
 * Electronics (CENG 3316)
+<a href="{{ base_path }}/files/electronics/Lec1.pdf" target="_blank">📄 Lec1; 
+<a href="{{ base_path }}/files/electronics/Lec2.pdf" target="_blank">📄 Lec2; 
+<a href="{{ base_path }}/files/electronics/Lec4.pdf" target="_blank">📄 Lec4; 
+<a href="{{ base_path }}/files/electronics/Lec5.pdf" target="_blank">📄 Lec5; 
+<a href="{{ base_path }}/files/electronics/Lec6.pdf" target="_blank">📄 Lec6; 
+<a href="{{ base_path }}/files/electronics/Lec7.pdf" target="_blank">📄 Lec7; 
+<a href="{{ base_path }}/files/electronics/Lec14.pdf" target="_blank">📄 Lec8; 
 * Lab for Computer Architecture (CENG 3151)
 * Lab for Electronics (CENG 3116)
 * Lab for Linear Circuits (CENG 2113)
