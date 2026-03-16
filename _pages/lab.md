@@ -12,11 +12,12 @@ redirect_from:
 Team
 ======
 * Current Students
-  * Dania Mosuli
-  * Talha Penkar
-  * Spencer Buchanan
-  * Cameron D. DiSomma
-  * Jeremy Turner
+  * Xinpeng Li, Ph.D, Co-advise with Prof. Shuai Xu at Case Western Reserve University
+  * Dania Mosuli, MS
+  * Cameron D. DiSomma, MS
+  * Talha Penkar, UG
+  * Spencer Buchanan, UG
+  * Jeremy Turner, UG
 * Former Students
   * Blair Reasoner, 2024, RTL CPU Designer, IBM
   * Mario Vega, 2023, Computer Systems Engineer, Lawrence Berkeley National Laboratory
