@@ -12,7 +12,7 @@ redirect_from:
 Team
 ======
 * Current Students
-  * Xinpeng Li, Ph.D, Co-advise with Prof. Shuai Xu at Case Western Reserve University
+  * Xinpeng Li, Ph.D, Co-advised with Prof. Shuai Xu at Case Western Reserve University
   * Dania Mosuli, MS, UHCL
   * Cameron D. DiSomma, MS, UHCL
   * Talha Penkar, UG, UHCL
