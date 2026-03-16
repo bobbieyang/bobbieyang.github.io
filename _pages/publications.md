@@ -27,7 +27,7 @@ Released IPs
 
 Journals
 ======
-1. [ToE 2025] X. Yang*, N. Wu, and X. Zhang, “Bridging Chip Design and Machine Learning in Undergraduate Digital Systems Curriculum,” IEEE Transactions on Education. Major revision, 2025.
+1. [ToE 2025] X. Yang* and X. Zhang, “Bridging Chip Design and Machine Learning in Undergraduate Digital Systems Curriculum,” IEEE Transactions on Education. Major revision, 2025.
 2. [Micromachines 2023] Mukesh Chowdary Madineni, Mario Vega, and X. Yang, “Parameterizable Design on Convolutional Neuron Networks with Chisel Hardware Construction Language,” Micromachines, MDPI, Vol. 14, No. 3, Article 531, 2022.
 3. [ToE 2021] X. Yang*, “Bridging the Gap Between Academia and Industry Needs with an Open-Source Platform in Teaching Digital System Design,” IEEE Transactions on Education, Vol. 64, No. 4, pp. 337–344, November 2021. DOI: 10.1109/TE.2021.3050450.
 4. [JSC 2021] I. Westby and X. Yang*, “FPGA Acceleration on a Multi-Layer Perceptron Neural Network for Digit Recognition,” The Journal of Supercomputing, Springer, pp. 1–18, May 2021. DOI: 10.1007/S11227-021-03849-7.
@@ -49,7 +49,9 @@ Journals
   
 Conferences
 ======
-1. [IPDPS 2026] Angelos Ioannou, Mario Vega, Fabien Chaix, Dania Mosuli, Blair Reasoner, Tan Nguyen, Xiaokun Yang, John Shalf, and Doru Thom Popovici, “A Hierarchical Methodology for Hardware Design Exploration of Mathematical Kernels,” 40th IEEE International Parallel & Distributed Processing Symposium (IPDPS 2026), submitted, May 25–29, 2026, New Orleans, USA.
+1. [QCE 2026] Xiaokun Yang, et. al., "Parameterized Quantum Circuit Emulator and Accelerator", The ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC), Submitted, IEEE Quantum Week, 13 - 18 September 2026, Metro Toronto Convention Centre Toronto, Ontario, Canada.
+2. [HPDC 2026] Xiaokun Yang, et. al., "Scalable Quantum Circuit Simulation via Circuit Cutting and FPGA Acceleration", The ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC), Submitted, July 13-16, 2026, Cleveland, OH, USA.
+3. [IPDPS 2026] Angelos Ioannou, Mario Vega, Fabien Chaix, Dania Mosuli, Blair Reasoner, Tan Nguyen, Xiaokun Yang, John Shalf, and Doru Thom Popovici, “A Hierarchical Methodology for Hardware Design Exploration of Mathematical Kernels,” 40th IEEE International Parallel & Distributed Processing Symposium (IPDPS 2026), submitted, May 25–29, 2026, New Orleans, USA.
 2. [FPGA 2026] D. T. Popovici, M. Vega, A. Ioannou, F. Chaix, D. Mosuli, B. Reasoner, T. Nguyen, X. Yang, and J. Shalf, “Towards An Approach to Identify Divergences in Hardware Designs for HPC Workloads,” arXiv preprint arXiv:2509.09774, 2025. Available: https://arxiv.org/abs/2509.09774
 3. [DCAS 2026] Yunhe Feng, Xiaokun Yang, Kewei Sha and Junhua Ding, "Benchmarking the Benchmarks for Quantum Code Generation with LLMs", 19th IEEE Dallas Circuits and Systems Conference (DCAS 2026), Pending, 2026, Dallas, TX, USA.
 4. [CCGrid 2026] Hailu Xu, Simon Zhang, Zhengxiong Li, Shuai Xu, and Xiaokun Yang, “SwiftBot: A Decentralized Platform for LLM-Powered Federated Robotic Task Execution,” The 26th IEEE International Symposium on Cluster, Cloud, and Internet Computing (CCGrid 2026, Acceptance rate: 25%), 18–21 May 2026, Sydney, Australia.
