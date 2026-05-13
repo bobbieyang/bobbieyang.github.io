@@ -16,7 +16,7 @@ Team
   * Sumera Anjum, Ph.D, Co-advised with Prof. Yunhe Feng at University of North Texas
   * Dania Mosuli, MS, UHCL
   * Cameron D. DiSomma, MS, UHCL
-  * Talha Penkar, UG, UHCL
+  * Muhammad Athar Waqas, MS, UHCL
   * Spencer Buchanan, UG, UHCL
   * Jeremy Turner, UG, UHCL
 * Former Students
