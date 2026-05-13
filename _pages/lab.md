@@ -13,6 +13,7 @@ Team
 ======
 * Current Students
   * Xinpeng Li, Ph.D, Co-advised with Prof. Shuai Xu at Case Western Reserve University
+  * Sumera Anjum, Ph.D, Co-advised with Prof. Yunhe Feng at University of North Texas
   * Dania Mosuli, MS, UHCL
   * Cameron D. DiSomma, MS, UHCL
   * Talha Penkar, UG, UHCL
