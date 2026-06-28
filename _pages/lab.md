@@ -12,6 +12,7 @@ redirect_from:
 Team
 ======
 * Current Students
+  * Blair Reasoner, Ph.D, UH
   * Xinpeng Li, Ph.D, Co-advised with Prof. Shuai Xu at Case Western Reserve University
   * Sumera Anjum, Ph.D, Co-advised with Prof. Yunhe Feng at University of North Texas
   * Dania Mosuli, MS, UHCL
