@@ -18,7 +18,10 @@ Should you have any questions, please feel free to contact
 [xiaokunyang@lbl.gov](mailto:xiaokunyang@lbl.gov?subject=Research%20Inquiry)
 
 
-
+<img src="{{ base_path }}/images/research.pdf"
+     style="display: block; width: 100%; height: auto; margin: 0 0 1em 0;"
+     alt="IC Design Book">
+     
 Student Recruiting
 ======
 Presently, the Chip Design Lab is actively seeking talented and self-motivated students who possess a keen interest in hardware design for scientific computing and quantum computing, as well as machine learning applications on ASICs/FPGAs. These selected students will receive robust support through federal grants, including the esteemed DOE ASCR, NSF CSSI, and NSF REU programs. 
