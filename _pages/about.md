@@ -18,7 +18,7 @@ Should you have any questions, please feel free to contact
 [xiaokunyang@lbl.gov](mailto:xiaokunyang@lbl.gov?subject=Research%20Inquiry)
 
 
-<img src="{{ base_path }}/images/research.pdf"
+<img src="{{ base_path }}/images/research.png"
      style="display: block; width: 100%; height: auto; margin: 0 0 1em 0;"
      alt="IC Design Book">
      
