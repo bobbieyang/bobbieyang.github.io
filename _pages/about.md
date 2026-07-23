@@ -21,8 +21,6 @@ Research picture!
 <img src="{{ base_path }}/images/research.png"
      style="display: block; width: 100%; height: auto; margin: 0 0 1em 0;"
      alt="Research area"><img src="{{ base_path }}/images/research.png"
-     style="display: block; width: 100%; height: auto; margin: 0 0 1em 0;"
-     alt="Research area">
      
 Student Recruiting
 ======
