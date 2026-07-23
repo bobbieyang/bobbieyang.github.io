@@ -20,7 +20,7 @@ Should you have any questions, please feel free to contact
 
 <img src="{{ base_path }}/images/research.png"
      style="display: block; width: 100%; height: auto; margin: 0 0 1em 0;"
-     alt="IC Design Book">
+     alt="Research area">
      
 Student Recruiting
 ======
