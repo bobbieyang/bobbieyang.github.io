@@ -17,10 +17,6 @@ Should you have any questions, please feel free to contact
 [yangxia@uhcl.edu](mailto:yangxia@uhcl.edu?subject=Research%20Inquiry) and/or
 [xiaokunyang@lbl.gov](mailto:xiaokunyang@lbl.gov?subject=Research%20Inquiry)
 
-
-<img src="{{ base_path }}/images/research.png"
-     style="display: block; width: 100%; height: auto; margin: 0 0 1em 0;"
-     alt="Research area">
      
 Student Recruiting
 ======
@@ -31,4 +27,8 @@ The student qualifications are: 1) knowledgeable in ASIC/FPGA design and simulat
 More details about our recent projects and training materials can be found below.
 - [Training tutorials](https://bobbieyang.github.io/lab/) for chip design flow
 - [Recent projects](https://bobbieyang.github.io/portfolio/) for classical-quantum chip design
+
+<img src="{{ base_path }}/images/research.png"
+     style="display: block; width: 100%; height: auto; margin: 0 0 1em 0;"
+     alt="Research area">
 
