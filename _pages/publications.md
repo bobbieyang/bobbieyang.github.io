@@ -115,9 +115,9 @@ Conferences
 Abstracts/Posters, Presentations, and Invited Talks
 ======
 1. [TQS 2026] Xiaokun Yang, Yunhe Feng, Xuechen Zhang, Shui Xu, and Vipin Chaudhary, "Scalable Quantum Circuit Simulation and Accelerator," Texas Quantum Summit, UT Dallas, Aug. 12-14, 2026.
-2. [NSF REU Poster 2026] Krishna Patel, Sumera Anjum, Spencer Buchanan, Xuechen Zhang, Yunhe Feng, and Xiaokun Yang, “LLM-Driven Hardware Design for Quantum Simulation Acceleration”, Poster, ENCS Undergraduate Research Showcase, Vancouver, WA, August 14, 2025.
-3. [NSF REU Poster 2026] Spencer Buchanan, Mario Vega, Doru Thom Popovici, John Shalf, and Xiaokun Yang, Poster, ENCS Undergraduate Research Showcase, August 14, 2025.
-4. [ASCR 2026] Daman Rouson and Xiaokun Yang, "Towards a Verifiable Domain-Specific Language for Hardware-Accelerated Stencils", ASCR PI meeting, July 26, 2026
+2. [ASCR PI Meeting 2026] Daman Rouson and Xiaokun Yang, "Towards a Verifiable Domain-Specific Language for Hardware-Accelerated Stencils", ASCR PI meeting, July 26, 2026
+3. [NSF REU Poster 2026] Krishna Patel, Sumera Anjum, Spencer Buchanan, Xuechen Zhang, Yunhe Feng, and Xiaokun Yang, “LLM-Driven Hardware Design for Quantum Simulation Acceleration”, Poster, ENCS Undergraduate Research Showcase, Vancouver, WA, August 14, 2025.
+4. [NSF REU Poster 2026] Spencer Buchanan, Mario Vega, Doru Thom Popovici, John Shalf, and Xiaokun Yang, Poster, ENCS Undergraduate Research Showcase, August 14, 2025.
 5. [QCUF 2026] Xiaokun Yang, Xinpeng Li, Jeremy W. Turner, Cameron D. Disomma, Yunhe Feng, Xuechen Zhang, Vipin Chaudhary, and Shui Xu, "Scalable Quantum Circuit Simulation via Circuit Cutting and Hardware Acceleration," Oak Ridge National Laboratory, Knoxville, July 20-24, 2026. 
 6. [Quantum 2026] Xiaokun Yang, “Beyond Moore’s Law: Specialized Hardware Design Generation for Quantum Circuit Simulation and Verification,” Invited Talk, Quantum Workshop, UT Dallas.
 7. [SC 2025] Mario Vega, Angelos Ioannou, Fabien Chaix, Dania Mosuli, Blair Reasoner, Tan Nguyen, Xiaokun Yang, and John Shalf, “An Approach to Identify Divergences in Hardware Designs for HPC Workloads,” 11th International Workshop on Heterogeneous High-Performance Reconfigurable Computing (H2RC 2025), St. Louis, MO, November 21, 2025.
