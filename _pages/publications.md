@@ -27,7 +27,7 @@ Released IPs
 
 Journals
 ======
-1. [TCAD 2027] X. Yang*, et. al, “GenTSQR: A Parameterized Hardware Generator for Streaming and Spatially Parallel QR Factorization,” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Submitted, 2026.
+1. [TCAD 2027] Xiaokun Yang, Spencer Miles Buchanan, Dania Susanne Mosuli, Blair Reasoner, Meriam Gay Bautista-Jurney, Doru Adrian Thom Popovici, and John Shalf, “GenTSQR: A Parameterized Hardware Generator for Streaming and Spatially Parallel QR Factorization,” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Submitted, 2026.
 2. [ToE 2025] X. Yang* and X. Zhang, “Bridging Chip Design and Machine Learning in Undergraduate Digital Systems Curriculum,” IEEE Transactions on Education. Major revision, 2025.
 3. [Micromachines 2023] Mukesh Chowdary Madineni, Mario Vega, and X. Yang, “Parameterizable Design on Convolutional Neuron Networks with Chisel Hardware Construction Language,” Micromachines 2023, 14(3), 531; https://doi.org/10.3390/mi14030531
 5. [ToE 2021] X. Yang*, “Bridging the Gap Between Academia and Industry Needs with an Open-Source Platform in Teaching Digital System Design,” IEEE Transactions on Education, Vol. 64, No. 4, pp. 337–344, November 2021. DOI: https://10.1109/TE.2021.3050450.
