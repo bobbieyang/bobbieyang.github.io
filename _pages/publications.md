@@ -43,9 +43,9 @@ Journals
 15. [JSS 2017] M. Fan, Q. Han, and X. Yang, “Energy Minimization for Online Real-Time Scheduling with Reliability Awareness,” Journal of Systems and Software, Vol. 127, pp. 168–176, May 2017. [Paper](10.1016/j.jss.2017.02.004).
 16. [IJCA 2017] J. Thota, P. Vangali, and X. Yang*, “Prototyping an Autonomous Eye-Controlled System Using Raspberry Pi for Wheelchairs,” International Journal of Computer Applications, Vol. 158, No. 8, pp. 1–7, January 2017.
 17. [CAE 2017] P. Vangali and X. Yang*, “A Compression Algorithm Design and Simulation for Processing Large Volumes of Data from Wireless Sensor Networks,” Communications on Applied Electronics, Vol. 7, No. 4, pp. 1–5, June 2017.
-18. [Integration 2016] X. Yang*, N. Wu, and J. Andrian, “A Novel Bus Transfer Mode: Block Transfer and a Performance Evaluation Methodology,” Integration, the VLSI Journal, Vol. 52, pp. 23–33, January 2016.
+18. [Integration 2016] X. Yang*, N. Wu, and J. Andrian, “A Novel Bus Transfer Mode: Block Transfer and a Performance Evaluation Methodology,” Integration, the VLSI Journal, Vol. 52, pp. 23–33, January 2016. [Paper](10.1016/j.vlsi.2015.07.012)
 19. [IJDKP 2016] K. Zeng, N. Wu, X. Yang, and K. K. Yen, “FHCC: A Soft Hierarchical Clustering Approach for Collaborative Filtering Recommendation,” International Journal of Data Mining & Knowledge Management Process, Vol. 6, No. 3, May 2016.
-20. [TVLSI 2015] X. Yang* and J. Andrian, “A High-Performance On-Chip Bus (MSBUS) Design and Verification,” IEEE Transactions on Very Large Scale Integration (VLSI) Systems, Vol. 23, No. 7, pp. 1350–1354, July 2015.
+20. [TVLSI 2015] X. Yang* and J. Andrian, “A High-Performance On-Chip Bus (MSBUS) Design and Verification,” IEEE Transactions on Very Large Scale Integration (VLSI) Systems, Vol. 23, No. 7, pp. 1350–1354, July 2015. [Paper](10.1109/TVLSI.2014.2334351)
 
   
 Conferences
