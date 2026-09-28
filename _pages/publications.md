@@ -15,7 +15,7 @@ Book
 
 Patents
 ======
-1. Xiaokun Yang, Shuai Xu, Vipin Chaudhary, and Xuechen Zhang. “Accelerated Mixed-Precision Quantum Circuit Simulation with Automated Hardware Generation,” U.S. Patent, Pending, 2026.
+1. Xiaokun Yang, Shuai Xu, Vipin Chaudhary, and Xuechen Zhang. “Accelerated Mixed-Precision Quantum Circuit Simulation with Automated Hardware Generation,” U.S. Patent, Filed by University of Houston System, 2026.
 2. Shuai Xu, Vipin Chaudhary, and Xiaokun Yang. “Scaling quantum circuit simulation through the integration of circuit cutting and hardware acceleration,” U.S. Patent, Pending, 2026.
 3. X. Yang and J. Andrian, “An Advanced Bus Architecture for AES-Encrypted High-Performance Embedded Systems,” U.S. Patent US20170302438A1, October 19, 2017.
 4. X. Yang, “A Mixed-Signal Verification System for Sigma-Delta Filters,” China Patent CN102955871A, 2013.
