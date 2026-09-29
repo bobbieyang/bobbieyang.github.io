@@ -48,11 +48,17 @@ Summer 2022
 
 Federal Research Proposals
 ======
+* NSF REU 2640166: Collaborative Research: REU Site: Next-Generation Computer Systems and IoT for Smart and Sustainable Engineering and Agriculture (Co-PI), $33,240 ($60,000), 07/2026
+
 * NSF Future CoRe 297455, Collaborative Research: FET: Scalable and Accelerated Quantum Circuit Simulator (PI). $204,738 ($600,000 total). February 2026.
   
 * NSF SaTC 2.0 297432, Collaborative Research: SaTC 2.0: RES: Trusted and Secure Quantum Computing through Multi-Level Decomposition (Co-PI). $64,986 ($600,000 total). January 2026.
   
 * NSF Future CoRe 297429, Collaborative Research: CSR: Defer-CSD: Eliminating Critical-Path Write Latency in Computational Storage for Long-Context LLM Inference (Co-PI). $173,643 ($600,000 total). February 2025.
+
+* Schmidt Sciences: LLM-Driven Hardware Generation for Accelerated Quantum Circuit Simulation, Schmidt Sciences Unconventional Computing, PI, $149,980, 05/2026
+
+* Schmidt Sciences: Real-World Deployable Chip-Based Digital Twin (Blue-CHIP) for Riverine and Mariyne Energy, Schmidt Sciences Unconventional Computing, Co-PI, \$150,000, 05/2026
   
 * NSF DMREF 2523186, Additive Manufacturing of Advanced Composite Materials Enhanced by Machine Learning and Artificial Intelligence to Revolutionize and Engineer Our Future (Co-PI). $1,628,014. February 2025.
   
