@@ -19,19 +19,21 @@ Research Grant
   
 * PI, Distinguished Professorship, UHCL Computer Science and Engineering. Bridging Classical IC Design and Quantum Circuit Simulation: A Parameterized and Scalable Hardware Emulation Framework. $29,649. Awarded. 2025–2028
 
-* NSF HSI Program - Collaboration Kickstart Travel Grant, $2,500, Awarded. 2026. 
-  
-* NSF HSI Travel Grant, “Developing a High-Quality Academic Environment for Broadening Participation of Hispanic Students in Computing,” University of North Texas. $2,000. Awarded. 2025
-  
-* PI, NSF Travel Grant, NSF CISE Research Expansion (RE) Aspiring PI Workshop. $1,500. Awarded. 2025
-  
-* PI, NSF Travel Grant, NSF CISE MSI Aspiring PI Workshop. $1,300. Awarded. 2024
-  
 * PI, Berkeley Lab Fellowship, Collaborative Research: Hardware Accelerator Design on Density Functional Theory. $37,800. Awarded, DOE. Summer 2024
   
 * PI, Berkeley Lab Fellowship, Collaborative Research: Hardware Accelerator Design on TSQR Factorization. $37,800. Awarded, DOE. Summer 2023
   
 * PI, DOE Visiting Faculty Program (VFP), Collaborative Research: Hardware Accelerator Design on 3D Fourier Transform. $25,900. Awarded, DOE. Summer 2022
+
+* PI, NSF Collaboration Kickstart Travel Grant, Advancing HSI Education and Workforce Development through AI-Driven Quantum–Classical Circuit Design, $2,500, Awarded. 2026
+
+* PI, NSF HSI Travel Grant, “Developing a High-Quality Academic Environment for Broadening Participation of Hispanic Students in Computing,” University of North Texas. $2,000. Awarded. 2025
+  
+* PI, NSF Travel Grant, NSF CISE Research Expansion (RE) Aspiring PI Workshop. $1,500. Awarded. 2025
+  
+* PI, NSF Travel Grant, NSF CISE MSI Aspiring PI Workshop. $1,300. Awarded. 2024
+  
+Summer 2022
   
 * Research Advisor, Integrated Circuit Design and Verification, NSF HSI-ELPSG. $20,000. Awarded, UHCL. 2022–2023
 * Research Advisor, Hardware Generator Design and Verification, Department of Education (DoE) Pathway Program. $20,000. Awarded, UHCL. 2022–2023
