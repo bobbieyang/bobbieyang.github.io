@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xiaokun Yang"
+title: "Xiaokun (Bobbie) Yang"
 author_profile: true
 redirect_from: 
   - /about/
