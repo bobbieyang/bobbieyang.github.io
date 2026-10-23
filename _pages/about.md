@@ -21,8 +21,10 @@ Research Abstract
 ======
 As traditional transistor scaling reaches its fundamental physical and economic limits, the semiconductor industry has entered the post-Moore’s Law era, where future computing performance relies entirely on specialized, workload-tailored hardware architectures. 
 My research team explores how modular hardware generation can bridge the widening gap between surging computational demands and plateauing silicon efficiency. We present a unified, parameterized hardware generation framework designed to systematically optimize power, performance, and area (PPA) across both FPGAs and ASICs. By raising the level of hardware abstraction, our approach delivers reusable computational building blocks—spanning custom arithmetic units, dense linear algebra kernels (GEMM, TSQR), spectral transforms (FFT), and stencil solvers—supporting flexible numerical precisions and spatial-temporal parallelism. Building upon these foundations, we highlight two high-impact domains: 
+
 1) Scientific Computing and AI: Accelerating demanding workloads such as density functional theory (DFT) and neural networks.
 2) Quantum Circuit Simulation: Developing customized state representations and adaptive mixed-precision generators integrated with circuit-cutting techniques to overcome classical memory bottlenecks and scale quantum simulations.
+
 Physical implementations in TSMC 7 nm demonstrate operating frequencies exceeding 1 GHz and a 50x improvement in energy and area efficiency over the NVIDIA H100 GPU on targeted workloads. This presentation will discuss the design principles behind this hardware specialization and their implications for the future of heterogeneous computing.
 
 <img src="{{ base_path }}/images/research.png"
