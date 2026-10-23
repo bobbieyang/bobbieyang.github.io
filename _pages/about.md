@@ -33,9 +33,10 @@ Presently, the Chip Design Lab is actively seeking talented and self-motivated s
 
 The student qualifications are: 1) knowledgeable in ASIC/FPGA design and simulation; and 2) knowledgeable in Chisel/Scala programming. 
 
-More details about our recent projects and training materials can be found below.
+If you have taken either of my courses, **IC Design Flow** or **Advanced Digital Systems Design**, you are encouraged to apply directly. Otherwise, please complete the self-training materials before submitting your application.
 - [Training tutorials](https://bobbieyang.github.io/lab/) for chip design flow
 - [Recent projects](https://bobbieyang.github.io/portfolio/) for classical-quantum chip design
 
+To apply, please send me your **CV and academic transcript**.
 
 
