@@ -15,11 +15,10 @@ Book
 
 Patents
 ======
-1. Xiaokun Yang, Shuai Xu, Vipin Chaudhary, and Xuechen Zhang. “Accelerated Mixed-Precision Quantum Circuit Simulation with Automated Hardware Generation,” U.S. Patent, Filed by University of Houston System, 2026.
-2. Shuai Xu, Vipin Chaudhary, and Xiaokun Yang. “Scaling quantum circuit simulation through the integration of circuit cutting and hardware acceleration,” U.S. Patent, Pending, 2026.
-3. X. Yang and J. Andrian, “An Advanced Bus Architecture for AES-Encrypted High-Performance Embedded Systems,” U.S. Patent US20170302438A1, October 19, 2017.
-4. X. Yang, “A Mixed-Signal Verification System for Sigma-Delta Filters,” China Patent CN102955871A, 2013.
-5. W. Teng, J. Sun, L. Mo, J. Zou, Y. Wu, F. Liao, J. Zhang, X. Yang, and D. Li, “Method and Device for Detecting Frame Signals of Wireless Local Area Network (WLAN) Equipment,” China Patent CN102970688A, 2013.
+1. Xiaokun Yang, Shuai Xu, Vipin Chaudhary, and Xuechen Zhang. “Accelerated Mixed-Precision Quantum Circuit Simulation with Automated Hardware Generation,” U.S. Patent Application 64/184,673, 2026., Filed by University of Houston System, 2026.
+2. X. Yang and J. Andrian, “An Advanced Bus Architecture for AES-Encrypted High-Performance Embedded Systems,” U.S. Patent US20170302438A1, October 19, 2017.
+3. X. Yang, “A Mixed-Signal Verification System for Sigma-Delta Filters,” China Patent CN102955871A, 2013.
+4. W. Teng, J. Sun, L. Mo, J. Zou, Y. Wu, F. Liao, J. Zhang, X. Yang, and D. Li, “Method and Device for Detecting Frame Signals of Wireless Local Area Network (WLAN) Equipment,” China Patent CN102970688A, 2013.
 
 Released IPs
 ======
