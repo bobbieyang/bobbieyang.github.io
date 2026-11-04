@@ -1,6 +1,6 @@
 ---
 title: "A Quantum-Classical Co-Design Framework for Scalable Quantum Circuit Simulation and Acceleration"
-excerpt: "As Moore’s Law continues to plateau, the industry has increasingly turned to specialized hardware design solutions to sustain performance scaling, particularly for artificial intelligence and high-performance computing applications. Representative examples of this paradigm shift include Google’s Tensor Processing Units (TPUs); Amazon AWS’s Graviton, Trainium, and Inferentia processors; Apple’s A- and M-series system-on-chips (SoCs); Meta’s Training and Inference Accelerator (MTIA); Microsoft’s Maia and Cobalt chips; Tesla’s Dojo accelerators; Broadcom’s custom AI application-specific integrated circuits (ASICs); and large-scale FPGA-based systems. Building on this trend, this project introduces a transformative quantum–classical co-design framework that tightly integrates circuit-cutting techniques with specialized multi-FPGA architectures to enable scalable and accelerated simulation.
+excerpt: "As quantum processors advance toward fault-tolerant operation over the next decade, systems targeting thousands of logical qubits and circuits containing millions of gates will place increasing demands on classical simulation and verification. To address this challenge, my second research thrust will develop trustworthy and scalable verification platforms through hardware acceleration, circuit decomposition, and explicit error control.
  <br/><img src='/files/projects/integrated-quantum-classical-chip.png'>"
 collection: portfolio
 ---
