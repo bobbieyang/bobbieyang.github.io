@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+<h2 id="projects">Research Projects</h2>
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
+
 Team
 ======
 * Current Students
