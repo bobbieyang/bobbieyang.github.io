@@ -36,6 +36,20 @@ Team
   * Yunxiang Zhang, 2019, Assistant Professor, University of Arkansas
   * Archit Gajjar, 2018, Postdoctoral Research Associate, HP Labs 
 
+## Lab Photos
+
+![AMD, 2010]({{ base_path }}/files/lab/amd%202010.jpg)
+
+![Blair at LBL, 2023]({{ base_path }}/files/lab/blair%20lbl%202023.jpg)
+
+![DOE kickoff, 2025]({{ base_path }}/files/lab/doe%20kickoff%202025.png)
+
+![Mario at LBL, 2022]({{ base_path }}/files/lab/mario%20lbl%202022.jpg)
+
+![NERSC, 2024]({{ base_path }}/files/lab/nersc%202024.jpg)
+
+![REU ICDM, 2025]({{ base_path }}/files/lab/reu%20icdm%202025.jpg)
+
   
 IC Design Flow
 ======
