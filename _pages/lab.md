@@ -121,18 +121,6 @@ Team
 </div>
 
   
-<style>
-.lab-highlights { margin: 2.5rem 0; }
-.lab-highlights .lab-gallery { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.25rem; margin-bottom: 1.25rem; }
-.lab-highlights .lab-photo { display: block; min-width: 0; margin: 0; padding: 0; overflow: hidden; border: 1px solid var(--global-border-color); border-radius: 10px; }
-.lab-highlights .lab-photo a { display: block; }
-.lab-highlights .lab-photo a:focus-visible { outline: 3px solid currentColor; outline-offset: -3px; }
-.lab-highlights .lab-photo img { display: block; float: none; width: 100%; height: auto; aspect-ratio: 4 / 3; margin: 0; object-fit: contain; background: rgba(127, 127, 127, .08); border-radius: 0; }
-.lab-highlights .lab-photo figcaption { margin: 0; padding: .85rem 1rem; font-size: .85em; font-weight: 600; line-height: 1.5; color: inherit; }
-.lab-highlights .lab-gallery-three { grid-template-columns: repeat(3, minmax(0, 1fr)); }
-@media (max-width: 600px) { .lab-highlights .lab-gallery { grid-template-columns: 1fr; } }
-</style>
-
 <section class="lab-highlights" aria-labelledby="lab-highlights-title">
   <h2 id="lab-highlights-title">Lab Highlights</h2>
   <p>Photos through the years. Select a photo to view the full-size image.</p>
@@ -173,7 +161,7 @@ Team
   <div class="lab-gallery">
     <figure class="lab-photo">
       <a href="{{ base_path }}/files/lab/hfa%202022%20soccer.jpg" aria-label="View HFA Soccer Team, 2022, full size">
-        <img src="{{ base_path }}/files/lab/hfa%202022%20soccer.jpg" alt="HFA soccer team, 2022" width="1441" height="1080" loading="lazy" decoding="async">
+        <img src="{{ base_path }}/files/lab/hfa%202022%20soccer.jpg" alt="HFA soccer team, 2022" width="1200" height="1080" loading="lazy" decoding="async">
       </a>
       <figcaption>HFA Soccer Team &middot; 2022</figcaption>
     </figure>
@@ -181,27 +169,7 @@ Team
       <a href="{{ base_path }}/files/lab/amd%202010.jpg" aria-label="View AMD, 2010, full size">
         <img src="{{ base_path }}/files/lab/amd%202010.jpg" alt="AMD, 2010" width="216" height="161" loading="lazy" decoding="async">
       </a>
-      <figcaption>AMD &middot; 2010<br><span style="font-weight: 400;">Cannot believe how low-quality my phone photos were that year :)</span></figcaption>
-    </figure>
-  </div>
-  <div class="lab-gallery lab-gallery-three">
-    <figure class="lab-photo">
-      <a href="{{ base_path }}/files/lab/ornl%20iqm%202026.jpg" aria-label="View ORNL / IQM, 2026, full size">
-        <img src="{{ base_path }}/files/lab/ornl%20iqm%202026.jpg" alt="ORNL / IQM, 2026" width="2467" height="3356" loading="lazy" decoding="async">
-      </a>
-      <figcaption>ORNL / IQM &middot; 2026</figcaption>
-    </figure>
-    <figure class="lab-photo">
-      <a href="{{ base_path }}/files/lab/ccf%20ibm%202026.jpg" aria-label="View CCF / IBM, 2026, full size">
-        <img src="{{ base_path }}/files/lab/ccf%20ibm%202026.jpg" alt="CCF / IBM, 2026" width="3024" height="2794" loading="lazy" decoding="async">
-      </a>
-      <figcaption>CCF / IBM &middot; 2026</figcaption>
-    </figure>
-    <figure class="lab-photo">
-      <a href="{{ base_path }}/files/lab/jcdl%20reu%202026.jpg" aria-label="View JCDL REU, 2026, full size">
-        <img src="{{ base_path }}/files/lab/jcdl%20reu%202026.jpg" alt="JCDL REU, 2026" width="4032" height="3024" loading="lazy" decoding="async">
-      </a>
-      <figcaption>JCDL REU &middot; 2026</figcaption>
+      <figcaption>AMD &middot; 2010<br><span style="font-weight: 300;">Cannot believe how low-quality my phone photos were that year :)</span></figcaption>
     </figure>
   </div>
 </section>
