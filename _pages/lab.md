@@ -68,6 +68,11 @@ Team
     grid-template-columns: 1fr;
   }
 }
+.lab-highlights .lab-gallery-compact { width: 66.666%; margin-left: auto; margin-right: auto; }
+.lab-highlights .lab-gallery-compact img { height: 160px; object-fit: contain; }
+@media (max-width: 600px) {
+  .lab-highlights .lab-gallery-compact { width: 100%; max-width: 320px; }
+}
 </style>
 
 <div class="lab-gallery">
@@ -158,7 +163,7 @@ Team
       <figcaption>Blair at LBL &middot; 2023</figcaption>
     </figure>
   </div>
-  <div class="lab-gallery">
+  <div class="lab-gallery lab-gallery-compact">
     <figure class="lab-photo">
       <a href="{{ base_path }}/files/lab/hfa%202022%20soccer.jpg" aria-label="View HFA Soccer Team, 2022, full size">
         <img src="{{ base_path }}/files/lab/hfa%202022%20soccer.jpg" alt="HFA soccer team, 2022" width="1200" height="1080" loading="lazy" decoding="async">
