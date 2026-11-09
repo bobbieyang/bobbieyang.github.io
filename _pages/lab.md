@@ -38,17 +38,87 @@ Team
 
 ## Lab Photos
 
-![AMD, 2010]({{ base_path }}/files/lab/amd%202010.jpg)
+<h2>Lab Highlights</h2>
 
-![Blair at LBL, 2023]({{ base_path }}/files/lab/blair%20lbl%202023.jpg)
+<style>
+.lab-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 24px;
+  margin-bottom: 32px;
+}
+.lab-gallery figure {
+  margin: 0;
+}
+.lab-gallery img {
+  display: block;
+  width: 100%;
+  height: 220px;
+  object-fit: contain;
+  background: #f4f4f4;
+  border-radius: 8px;
+}
+.lab-gallery figcaption {
+  margin-top: 8px;
+  text-align: center;
+  font-size: 0.9em;
+}
+@media (max-width: 600px) {
+  .lab-gallery {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
 
-![DOE kickoff, 2025]({{ base_path }}/files/lab/doe%20kickoff%202025.png)
+<div class="lab-gallery">
+  <figure>
+    <a href="{{ base_path }}/files/lab/doe%20kickoff%202025.png">
+      <img src="{{ base_path }}/files/lab/doe%20kickoff%202025.png"
+           alt="DOE kickoff, 2025" loading="lazy">
+    </a>
+    <figcaption>DOE Kickoff · 2025</figcaption>
+  </figure>
 
-![Mario at LBL, 2022]({{ base_path }}/files/lab/mario%20lbl%202022.jpg)
+  <figure>
+    <a href="{{ base_path }}/files/lab/reu%20icdm%202025.jpg">
+      <img src="{{ base_path }}/files/lab/reu%20icdm%202025.jpg"
+           alt="REU ICDM, 2025" loading="lazy">
+    </a>
+    <figcaption>REU ICDM · 2025</figcaption>
+  </figure>
 
-![NERSC, 2024]({{ base_path }}/files/lab/nersc%202024.jpg)
+  <figure>
+    <a href="{{ base_path }}/files/lab/nersc%202024.jpg">
+      <img src="{{ base_path }}/files/lab/nersc%202024.jpg"
+           alt="NERSC, 2024" loading="lazy">
+    </a>
+    <figcaption>NERSC · 2024</figcaption>
+  </figure>
 
-![REU ICDM, 2025]({{ base_path }}/files/lab/reu%20icdm%202025.jpg)
+  <figure>
+    <a href="{{ base_path }}/files/lab/blair%20lbl%202023.jpg">
+      <img src="{{ base_path }}/files/lab/blair%20lbl%202023.jpg"
+           alt="Blair at LBL, 2023" loading="lazy">
+    </a>
+    <figcaption>Blair at LBL · 2023</figcaption>
+  </figure>
+
+  <figure>
+    <a href="{{ base_path }}/files/lab/mario%20lbl%202022.jpg">
+      <img src="{{ base_path }}/files/lab/mario%20lbl%202022.jpg"
+           alt="Mario at LBL, 2022" loading="lazy">
+    </a>
+    <figcaption>Mario at LBL · 2022</figcaption>
+  </figure>
+
+  <figure>
+    <a href="{{ base_path }}/files/lab/amd%202010.jpg">
+      <img src="{{ base_path }}/files/lab/amd%202010.jpg"
+           alt="AMD, 2010" loading="lazy">
+    </a>
+    <figcaption>AMD · 2010</figcaption>
+  </figure>
+</div>
 
   
 IC Design Flow
