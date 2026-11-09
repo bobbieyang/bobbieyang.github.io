@@ -86,13 +86,13 @@ Team
   <div class="lab-gallery">
     <figure class="lab-photo">
       <a href="{{ base_path }}/files/lab/doe%20kickoff%202025.png" aria-label="View DOE Kickoff, 2025, full size">
-        <img src="{{ base_path }}/files/lab/doe%20kickoff%202025.png" alt="DOE Kickoff, 2025" width="528" height="240" loading="lazy" decoding="async">
+        <img src="{{ base_path }}/files/lab/doe%20kickoff%202025.png" alt="DOE Competitive Portfolio LAB-24-3210 Kickoff, 2025" width="528" height="240" loading="lazy" decoding="async">
       </a>
       <figcaption>DOE Kickoff &middot; 2025</figcaption>
     </figure>
     <figure class="lab-photo">
       <a href="{{ base_path }}/files/lab/reu%20icdm%202025.jpg" aria-label="View REU ICDM, 2025, full size">
-        <img src="{{ base_path }}/files/lab/reu%20icdm%202025.jpg" alt="REU ICDM, 2025" width="188" height="141" loading="lazy" decoding="async">
+        <img src="{{ base_path }}/files/lab/reu%20icdm%202025.jpg" alt="ICDM REU, 2025" width="188" height="141" loading="lazy" decoding="async">
       </a>
       <figcaption>REU ICDM &middot; 2025</figcaption>
     </figure>
@@ -100,19 +100,19 @@ Team
   <div class="lab-gallery lab-gallery-three">
     <figure class="lab-photo">
       <a href="{{ base_path }}/files/lab/nersc%202024.jpg" aria-label="View NERSC, 2024, full size">
-        <img src="{{ base_path }}/files/lab/nersc%202024.jpg" alt="NERSC, 2024" width="154" height="163" loading="lazy" decoding="async">
+        <img src="{{ base_path }}/files/lab/nersc%202024.jpg" alt="LBNL NERSC, 2024" width="154" height="163" loading="lazy" decoding="async">
       </a>
       <figcaption>NERSC &middot; 2024</figcaption>
     </figure>
     <figure class="lab-photo">
       <a href="{{ base_path }}/files/lab/mario%20lbl%202022.jpg" aria-label="View Mario at LBL, 2022, full size">
-        <img src="{{ base_path }}/files/lab/mario%20lbl%202022.jpg" alt="Mario at LBL, 2022" width="144" height="121" loading="lazy" decoding="async">
+        <img src="{{ base_path }}/files/lab/mario%20lbl%202022.jpg" alt="Mario at LBNL, 2022" width="144" height="121" loading="lazy" decoding="async">
       </a>
       <figcaption>Mario at LBL &middot; 2022</figcaption>
     </figure>
     <figure class="lab-photo">
       <a href="{{ base_path }}/files/lab/blair%20lbl%202023.jpg" aria-label="View Blair at LBL, 2023, full size">
-        <img src="{{ base_path }}/files/lab/blair%20lbl%202023.jpg" alt="Blair at LBL, 2023" width="126" height="121" loading="lazy" decoding="async">
+        <img src="{{ base_path }}/files/lab/blair%20lbl%202023.jpg" alt="Blair at LBNL, 2023" width="126" height="121" loading="lazy" decoding="async">
       </a>
       <figcaption>Blair at LBL &middot; 2023</figcaption>
     </figure>
@@ -128,7 +128,7 @@ Team
       <a href="{{ base_path }}/files/lab/amd%202010.jpg" aria-label="View AMD, 2010, full size">
         <img src="{{ base_path }}/files/lab/amd%202010.jpg" alt="AMD, 2010" width="216" height="161" loading="lazy" decoding="async">
       </a>
-      <figcaption>AMD &middot; 2010<br><span style="font-weight: 300;">Cannot believe how low-quality my phone photos were that year :)</span></figcaption>
+      <figcaption>AMD &middot; 2010<br><span style="font-weight: 300;">Cannot believe how low-quality my photos were that year :)</span></figcaption>
     </figure>
   </div>
 </section>
