@@ -18,7 +18,8 @@ redirect_from:
 Team
 ======
 * Current Students
-  * Blair Reasoner, Ph.D, UH
+  * Blair Reasoner, Ph.D, Co-advised with Prof. Yuhua Chen at UH
+  * Xinpeng Li, Ph.D, Co-advised with Prof. Shuai Xu at CWRU
   * Sumera Anjum, Ph.D, Co-advised with Prof. Yunhe Feng at University of North Texas
   * Dania Mosuli, MS, UHCL
   * Cameron D. DiSomma, MS, UHCL
