@@ -100,19 +100,19 @@ Team
   </div>
   <div class="lab-gallery lab-gallery-three">
     <figure class="lab-photo">
-      <a href="{{ base_path }}/files/lab/nersc%202024.jpg" aria-label="View NERSC, 2024, full size">
+      <a href="{{ base_path }}/files/lab/nersc%202024.jpg" aria-label="View NERSC at LBNL, 2024, full size">
         <img src="{{ base_path }}/files/lab/nersc%202024.jpg" alt="LBNL NERSC, 2024" width="154" height="163" loading="lazy" decoding="async">
       </a>
       <figcaption>NERSC &middot; 2024</figcaption>
     </figure>
     <figure class="lab-photo">
-      <a href="{{ base_path }}/files/lab/mario%20lbl%202022.jpg" aria-label="View Mario at LBL, 2022, full size">
+      <a href="{{ base_path }}/files/lab/mario%20lbl%202022.jpg" aria-label="View Mario at LBNL, 2022, full size">
         <img src="{{ base_path }}/files/lab/mario%20lbl%202022.jpg" alt="Mario at LBNL, 2022" width="144" height="121" loading="lazy" decoding="async">
       </a>
       <figcaption>Mario at LBL &middot; 2022</figcaption>
     </figure>
     <figure class="lab-photo">
-      <a href="{{ base_path }}/files/lab/blair%20lbl%202023.jpg" aria-label="View Blair at LBL, 2023, full size">
+      <a href="{{ base_path }}/files/lab/blair%20lbl%202023.jpg" aria-label="View Blair at LBNL, 2023, full size">
         <img src="{{ base_path }}/files/lab/blair%20lbl%202023.jpg" alt="Blair at LBNL, 2023" width="126" height="121" loading="lazy" decoding="async">
       </a>
       <figcaption>Blair at LBL &middot; 2023</figcaption>
@@ -126,7 +126,7 @@ Team
       <figcaption>HFA Soccer Team &middot; 2022</figcaption>
     </figure>
     <figure class="lab-photo">
-      <a href="{{ base_path }}/files/lab/amd%202010.jpg" aria-label="View AMD, 2010, full size">
+      <a href="{{ base_path }}/files/lab/amd%202010.jpg" aria-label="View ASIC Designer at AMD, 2010, full size">
         <img src="{{ base_path }}/files/lab/amd%202010.jpg" alt="AMD, 2010" width="216" height="161" loading="lazy" decoding="async">
       </a>
       <figcaption>AMD &middot; 2010<br><span style="font-weight: 300;">Cannot believe how low-quality my photos were that year :)</span></figcaption>
